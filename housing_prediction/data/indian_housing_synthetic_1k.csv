@@ -1,0 +1,1001 @@
+city,locality,BHK,area,floor,total_floors,age,furnishing,latitude,longitude,distance_to_cbd_km,distance_to_metro_km,price_lakhs
+Hyderabad,Jubilee Hills,2,871,4,5,20,Semi-Furnished,17.38159,78.39323,7.69,1.42,35.28
+Kolkata,New Town,2,1076,14,18,3,Semi-Furnished,22.64572,88.42545,10.3,0.75,43.29
+Bangalore,HSR Layout,2,1304,3,5,2,Semi-Furnished,12.98016,77.55852,4.02,0.72,93.64
+Hyderabad,Jubilee Hills,3,1434,5,8,5,Unfurnished,17.43453,78.39746,2.91,0.19,84.89
+Delhi,Saket,2,1001,14,21,10,Semi-Furnished,28.64352,77.27061,5.37,0.39,75.34
+Hyderabad,Madhapur,2,840,2,3,10,Semi-Furnished,17.39769,78.3433,6.51,1.17,36.92
+Bangalore,Indiranagar,3,1889,32,37,0,Semi-Furnished,12.91285,77.57296,6.94,1.47,149.07
+Chennai,Adyar,2,1346,6,16,0,Semi-Furnished,12.98861,80.23067,5.78,1.98,79.17
+Delhi,Saket,2,1040,10,18,2,Fully Furnished,28.63591,77.09845,11.65,1.02,107.46
+Bangalore,Indiranagar,2,827,24,31,2,Unfurnished,12.94257,77.49669,11.09,0.92,50.03
+Mumbai,Worli,2,1058,14,27,1,Unfurnished,19.07641,72.86832,0.99,0.1,273.42
+Mumbai,Thane West,2,1296,16,40,2,Fully Furnished,19.00832,72.8448,8.28,2.07,382.12
+Hyderabad,Jubilee Hills,2,1184,2,6,3,Unfurnished,17.41382,78.34881,4.68,1.47,60.62
+Kolkata,Howrah,3,1597,7,8,0,Semi-Furnished,22.6335,88.34832,6.96,0.85,67.75
+Bangalore,HSR Layout,1,546,17,42,10,Semi-Furnished,12.92118,77.5757,5.97,1.09,33.91
+Mumbai,Andheri West,2,1214,0,5,0,Fully Furnished,19.04746,72.89994,3.94,2.04,369.25
+Chennai,Adyar,2,1032,0,13,1,Fully Furnished,13.10547,80.19901,8.14,1.69,65.06
+Hyderabad,Kukatpally,2,1272,3,11,8,Unfurnished,17.45879,78.30109,7.83,2.04,64.29
+Chennai,Anna Nagar,2,1191,13,16,20,Semi-Furnished,13.06172,80.27132,4.71,0.51,48.63
+Kolkata,Salt Lake,2,1076,3,18,0,Semi-Furnished,22.70932,88.36765,15.21,0.1,34.46
+Mumbai,Thane West,4,2676,32,34,0,Semi-Furnished,19.12456,72.86374,5.59,1.68,563.41
+Mumbai,Worli,2,1122,1,5,8,Semi-Furnished,19.00529,72.88385,7.89,1.25,188.27
+Bangalore,Kanakapura Road,2,1337,19,39,5,Semi-Furnished,12.99291,77.6126,3.07,1.22,102.32
+Kolkata,Tollygunge,3,1542,9,19,10,Semi-Furnished,22.53396,88.35443,4.41,0.81,60.6
+Hyderabad,Jubilee Hills,2,852,3,5,1,Fully Furnished,17.52092,78.36503,8.13,0.9,41.53
+Delhi,Vasant Kunj,3,2003,1,4,15,Semi-Furnished,28.57895,77.2681,7.55,2.63,136.47
+Kolkata,Rajarhat,3,1671,3,5,5,Unfurnished,22.67933,88.37297,11.9,2.52,48.52
+Kolkata,Rajarhat,2,1019,6,18,2,Semi-Furnished,22.59479,88.39489,4.03,0.46,44.79
+Chennai,OMR,3,1499,0,3,8,Semi-Furnished,13.03408,80.21507,2.14,1.25,98.31
+Delhi,Dwarka,3,1559,11,36,3,Fully Furnished,28.63721,77.25743,3.95,2.47,163.94
+Delhi,Vasant Kunj,2,1196,16,26,8,Semi-Furnished,28.5977,77.14166,8.27,1.29,100.95
+Delhi,Saket,2,914,23,32,8,Semi-Furnished,28.59307,77.19637,4.64,1.96,109.94
+Mumbai,Thane West,2,1256,31,42,2,Fully Furnished,19.22563,72.94522,18.09,0.71,275.45
+Chennai,Anna Nagar,2,1324,12,18,15,Semi-Furnished,12.99737,80.26532,5.89,1.71,41.22
+Hyderabad,Jubilee Hills,4,2275,15,17,3,Unfurnished,17.47182,78.36663,2.73,1.04,165.15
+Mumbai,Thane West,3,1883,6,41,3,Unfurnished,19.22109,72.89388,16.22,1.27,305.84
+Mumbai,Bandra West,3,1593,18,34,8,Semi-Furnished,19.16835,72.8586,10.46,0.67,363.6
+Bangalore,Electronic City,4,2238,7,23,1,Semi-Furnished,12.86055,77.56505,12.76,2.35,89.89
+Mumbai,Worli,2,989,4,9,0,Fully Furnished,19.03206,72.77933,11.44,1.25,203.09
+Hyderabad,Jubilee Hills,2,1331,11,13,15,Unfurnished,17.40619,78.31607,7.73,2.35,48.8
+Kolkata,Tollygunge,1,407,0,7,2,Semi-Furnished,22.59574,88.32227,4.99,0.12,15.86
+Mumbai,Andheri West,2,1260,4,33,0,Semi-Furnished,19.00413,72.89738,8.26,0.14,342.65
+Mumbai,Bandra West,4,2376,0,16,3,Semi-Furnished,19.18579,72.85059,12.54,2.12,416.56
+Mumbai,Navi Mumbai,1,405,4,26,8,Semi-Furnished,19.1034,72.95416,8.59,1.46,80.48
+Bangalore,Whitefield,2,1256,30,31,1,Semi-Furnished,12.8758,77.63208,11.4,2.05,89.82
+Delhi,Vasant Kunj,2,1067,1,17,10,Fully Furnished,28.5966,77.37006,15.34,2.32,75.68
+Hyderabad,Kondapur,2,897,0,8,8,Semi-Furnished,17.4977,78.49725,14.17,1.4,31.71
+Delhi,Vasant Kunj,3,1537,5,37,3,Semi-Furnished,28.62952,77.26548,4.66,0.97,125.61
+Bangalore,Indiranagar,2,910,2,6,8,Unfurnished,12.89451,77.62874,9.34,1.8,41.62
+Delhi,Vasant Kunj,1,404,0,8,3,Fully Furnished,28.55358,77.1396,11.45,1.24,35.55
+Mumbai,Bandra West,3,1472,3,20,10,Semi-Furnished,19.07267,72.8417,3.8,1.3,392.39
+Chennai,Anna Nagar,2,855,9,15,0,Unfurnished,13.15921,80.22127,13.27,0.7,26.05
+Bangalore,Indiranagar,2,1073,27,40,0,Semi-Furnished,13.07827,77.42263,22.09,0.55,41.98
+Kolkata,New Town,2,1336,1,15,0,Semi-Furnished,22.58351,88.40032,3.93,2.04,64.34
+Delhi,Dwarka,2,1224,4,9,15,Unfurnished,28.67309,77.20034,5.04,0.1,99.61
+Chennai,Anna Nagar,3,1845,5,6,3,Fully Furnished,12.99907,80.21189,5.18,0.8,116.39
+Hyderabad,Gachibowli,2,1240,5,7,20,Semi-Furnished,17.46546,78.48109,11.51,2.19,39.54
+Hyderabad,Gachibowli,3,1539,3,13,2,Semi-Furnished,17.46388,78.31984,6.01,1.71,65.84
+Kolkata,New Town,2,1060,8,19,5,Semi-Furnished,22.62291,88.34082,6.08,1.87,36.73
+Bangalore,Whitefield,3,1635,7,25,10,Semi-Furnished,13.01948,77.58448,5.44,1.73,89.57
+Hyderabad,Kukatpally,2,804,8,12,8,Semi-Furnished,17.4875,78.29663,9.3,0.98,38.82
+Kolkata,Salt Lake,3,1422,1,4,0,Unfurnished,22.6725,88.30072,12.86,0.23,37.03
+Bangalore,Indiranagar,3,1953,26,42,8,Unfurnished,12.99529,77.56553,4.11,1.71,155.67
+Mumbai,Navi Mumbai,2,1088,12,36,1,Semi-Furnished,19.08173,72.85859,2.11,1.58,310.55
+Hyderabad,Jubilee Hills,2,956,3,6,8,Semi-Furnished,17.49372,78.31877,7.74,1.9,50.4
+Hyderabad,Kukatpally,4,3071,9,14,5,Semi-Furnished,17.34158,78.46386,15.22,1.72,121.42
+Mumbai,Andheri West,1,715,5,12,0,Unfurnished,19.00596,72.88588,7.84,0.72,178.18
+Mumbai,Worli,2,1204,14,43,3,Unfurnished,19.0438,72.86053,4.01,0.82,323.32
+Mumbai,Bandra West,3,1516,1,41,3,Semi-Furnished,19.00278,72.88754,8.21,2.04,309.04
+Bangalore,Whitefield,2,978,17,25,8,Unfurnished,13.00462,77.48752,12.17,2.03,42.31
+Hyderabad,Gachibowli,1,517,13,15,8,Unfurnished,17.45489,78.44188,7.23,0.74,21.46
+Bangalore,Kanakapura Road,3,1876,16,31,3,Semi-Furnished,13.15149,77.5171,21.69,2.31,51.54
+Hyderabad,Gachibowli,2,854,2,3,20,Semi-Furnished,17.43931,78.40577,3.5,1.87,29.41
+Chennai,Velachery,2,1242,2,3,8,Semi-Furnished,13.16907,80.23966,14.31,1.85,34.16
+Kolkata,Salt Lake,4,3723,6,9,8,Semi-Furnished,22.51855,88.38854,6.52,1.67,129.7
+Chennai,Adyar,2,881,3,14,5,Semi-Furnished,12.97842,80.20105,7.76,2.25,32.09
+Kolkata,Rajarhat,2,1299,17,19,0,Unfurnished,22.58092,88.32486,4.11,1.18,61.54
+Delhi,Rohini,2,1000,22,37,8,Semi-Furnished,28.64065,77.20666,1.57,1.21,116.49
+Chennai,OMR,2,833,5,12,1,Fully Furnished,13.14078,80.2624,11.58,0.82,45.05
+Kolkata,Salt Lake,2,1067,15,16,3,Fully Furnished,22.56766,88.45582,9.45,2.15,48.9
+Mumbai,Worli,1,681,23,37,15,Semi-Furnished,19.14195,72.87272,7.35,1.8,155.96
+Mumbai,Bandra West,1,547,4,5,2,Semi-Furnished,19.09868,72.86648,2.78,1.5,119.46
+Mumbai,Andheri West,3,2015,11,33,3,Unfurnished,18.95136,72.86168,13.96,1.6,377.94
+Bangalore,Whitefield,1,729,4,20,8,Semi-Furnished,12.98683,77.73081,14.86,1.75,36.28
+Mumbai,Bandra West,2,1288,4,10,8,Unfurnished,19.11037,72.88601,3.92,1.42,226.98
+Delhi,Vasant Kunj,4,2793,2,27,5,Semi-Furnished,28.7118,77.05495,18.28,2.28,209.14
+Bangalore,Kanakapura Road,2,982,24,25,8,Semi-Furnished,13.07269,77.46128,18.3,1.34,48.91
+Chennai,OMR,3,1849,8,14,5,Unfurnished,13.07617,80.23558,3.97,2.18,85.37
+Mumbai,Bandra West,1,739,3,33,8,Semi-Furnished,19.00619,72.90945,8.45,0.96,129.59
+Mumbai,Navi Mumbai,4,2784,6,9,10,Fully Furnished,19.05639,72.84237,4.31,0.68,734.09
+Bangalore,Kanakapura Road,4,3934,10,13,1,Unfurnished,12.98325,77.62907,3.95,1.43,333.34
+Mumbai,Bandra West,3,1916,34,35,2,Unfurnished,19.18964,72.85487,12.86,0.53,415.49
+Mumbai,Andheri West,3,1756,24,43,5,Unfurnished,19.02698,72.86219,5.69,1.43,424.35
+Hyderabad,Kukatpally,3,2001,1,5,5,Fully Furnished,17.48136,78.37643,3.68,1.23,139.2
+Mumbai,Worli,3,1491,5,30,1,Fully Furnished,19.14164,72.89799,7.6,2.05,440.0
+Chennai,OMR,2,830,1,6,10,Semi-Furnished,13.03214,80.23957,1.13,2.17,38.14
+Delhi,Rohini,3,1512,6,22,5,Fully Furnished,28.57093,77.22696,6.67,1.02,166.43
+Hyderabad,Madhapur,2,836,9,19,3,Unfurnished,17.42151,78.38575,3.22,2.06,41.01
+Bangalore,Electronic City,3,2086,9,14,0,Unfurnished,12.9973,77.55779,4.91,1.1,101.32
+Delhi,Rohini,4,3322,1,35,8,Unfurnished,28.55661,77.20704,8.27,1.72,292.29
+Bangalore,Indiranagar,3,1781,5,23,8,Semi-Furnished,12.95603,77.51431,8.87,1.11,99.35
+Bangalore,Whitefield,2,1326,14,21,3,Semi-Furnished,12.91698,77.63941,7.78,1.52,87.14
+Hyderabad,Gachibowli,3,1708,4,14,15,Fully Furnished,17.43878,78.3029,7.63,0.9,80.51
+Hyderabad,Gachibowli,1,672,3,4,3,Fully Furnished,17.36273,78.41047,10.27,0.1,36.59
+Mumbai,Navi Mumbai,1,719,0,28,15,Fully Furnished,19.10228,72.87481,2.94,1.92,189.42
+Bangalore,Indiranagar,1,475,32,35,5,Unfurnished,13.13974,77.59302,18.7,1.62,25.15
+Chennai,Velachery,3,2065,1,17,0,Semi-Furnished,12.99042,80.22246,5.7,2.64,116.78
+Bangalore,Kanakapura Road,3,1408,14,23,10,Unfurnished,13.09844,77.61965,14.36,1.51,64.15
+Hyderabad,Madhapur,2,821,1,13,0,Unfurnished,17.57282,78.33275,14.52,2.59,33.74
+Chennai,Velachery,3,1521,1,14,0,Semi-Furnished,13.02283,80.15263,9.0,1.66,75.61
+Chennai,Velachery,2,834,4,19,2,Semi-Furnished,13.01988,80.17722,6.53,1.59,39.93
+Hyderabad,Madhapur,1,576,1,6,5,Semi-Furnished,17.60391,78.39883,17.5,1.13,19.57
+Delhi,Vasant Kunj,2,1045,34,36,8,Semi-Furnished,28.55377,77.12477,12.45,2.2,87.53
+Kolkata,New Town,2,1133,13,17,5,Semi-Furnished,22.44211,88.37904,14.59,1.11,32.84
+Delhi,Dwarka,2,827,22,39,3,Unfurnished,28.67884,77.14295,9.07,2.09,69.67
+Bangalore,Electronic City,2,1160,10,23,8,Semi-Furnished,12.86264,77.56463,12.54,2.4,60.81
+Chennai,Velachery,3,1955,1,16,1,Unfurnished,13.09524,80.22725,6.13,2.47,121.12
+Delhi,Rohini,3,1434,11,17,1,Fully Furnished,28.67436,77.21286,4.91,1.26,134.92
+Bangalore,Indiranagar,1,616,11,26,5,Unfurnished,13.03574,77.61885,7.6,2.0,22.25
+Kolkata,Howrah,1,633,4,8,20,Unfurnished,22.53597,88.38412,4.57,1.68,16.57
+Mumbai,Bandra West,2,1213,10,15,15,Semi-Furnished,19.26827,72.8754,21.38,1.36,163.87
+Mumbai,Andheri West,2,852,8,9,10,Fully Furnished,19.14313,72.95031,10.67,0.41,160.36
+Chennai,Velachery,1,558,2,8,10,Semi-Furnished,13.06872,80.24792,3.5,0.15,23.51
+Mumbai,Worli,3,2040,18,24,3,Semi-Furnished,19.08564,72.83655,4.45,0.18,417.6
+Mumbai,Andheri West,2,901,2,12,5,Fully Furnished,19.08958,72.8497,3.31,2.07,290.62
+Delhi,Greater Kailash,1,553,5,26,8,Semi-Furnished,28.53256,77.22796,10.93,0.73,40.37
+Bangalore,Kanakapura Road,3,2018,13,37,3,Unfurnished,12.95391,77.62205,3.57,1.05,140.12
+Hyderabad,Kukatpally,4,3379,12,19,3,Unfurnished,17.33357,78.39791,13.0,2.41,156.25
+Bangalore,HSR Layout,2,958,19,39,3,Semi-Furnished,12.9295,77.61698,5.27,0.1,67.53
+Mumbai,Thane West,1,446,9,12,2,Semi-Furnished,19.08578,72.89943,2.53,1.24,117.91
+Delhi,Dwarka,3,1983,18,27,10,Semi-Furnished,28.6494,77.30828,9.09,0.51,146.54
+Mumbai,Bandra West,3,1838,16,24,1,Semi-Furnished,18.98099,72.89009,10.64,1.71,417.57
+Bangalore,HSR Layout,2,1322,2,5,5,Semi-Furnished,12.93258,77.49871,11.26,1.13,85.67
+Delhi,Rohini,3,1858,36,39,15,Unfurnished,28.64856,77.18565,3.72,0.1,184.94
+Mumbai,Worli,2,1316,5,6,2,Semi-Furnished,19.09169,72.85362,3.07,1.71,265.06
+Kolkata,New Town,4,2969,4,7,5,Semi-Furnished,22.47504,88.33874,11.15,0.54,100.18
+Delhi,Dwarka,3,1411,4,43,8,Semi-Furnished,28.70924,77.14483,11.29,0.77,90.03
+Mumbai,Andheri West,3,1483,11,19,8,Semi-Furnished,19.01607,72.88671,6.73,0.78,328.69
+Kolkata,Tollygunge,2,913,2,3,10,Unfurnished,22.51476,88.30239,9.01,0.22,25.7
+Delhi,Greater Kailash,3,1661,29,38,10,Fully Furnished,28.63004,77.26801,4.91,1.27,190.24
+Kolkata,Salt Lake,3,1925,3,16,5,Fully Furnished,22.56385,88.33367,3.25,1.63,84.1
+Delhi,Dwarka,2,1088,2,6,3,Unfurnished,28.6289,77.26677,4.79,2.31,109.46
+Chennai,OMR,1,424,14,15,5,Semi-Furnished,13.0351,80.23095,0.67,0.87,26.42
+Hyderabad,Jubilee Hills,1,529,1,13,0,Semi-Furnished,17.39031,78.39913,6.97,0.65,27.82
+Mumbai,Worli,2,948,3,36,5,Unfurnished,19.04662,72.84943,4.42,1.44,191.75
+Chennai,Anna Nagar,2,1219,5,9,10,Semi-Furnished,12.9128,80.27107,14.77,0.11,40.14
+Kolkata,Howrah,1,461,4,9,2,Unfurnished,22.55302,88.36329,2.18,1.89,18.0
+Delhi,Rohini,4,2537,3,29,10,Unfurnished,28.54712,77.17197,10.28,1.19,232.1
+Delhi,Vasant Kunj,2,1235,0,44,10,Unfurnished,28.61197,77.27927,6.35,1.43,90.24
+Mumbai,Bandra West,4,4179,7,25,2,Fully Furnished,19.12306,72.89805,5.65,0.75,1126.93
+Chennai,Adyar,1,486,2,15,0,Unfurnished,13.02905,80.2373,1.33,1.39,26.26
+Chennai,Anna Nagar,3,1765,9,10,0,Unfurnished,12.98667,80.16255,9.76,2.2,79.33
+Hyderabad,Gachibowli,2,1159,5,6,0,Fully Furnished,17.36299,78.46418,13.47,0.94,56.1
+Kolkata,New Town,2,1287,2,4,0,Unfurnished,22.57076,88.32329,4.17,1.23,59.31
+Delhi,Dwarka,2,923,20,35,2,Semi-Furnished,28.56353,77.19556,7.74,1.45,91.81
+Mumbai,Thane West,4,3753,10,35,2,Semi-Furnished,18.97669,72.90192,11.33,0.17,783.23
+Mumbai,Thane West,1,657,23,26,2,Semi-Furnished,19.10798,72.85165,4.49,0.78,186.14
+Chennai,Medavakkam,3,1914,4,17,1,Semi-Furnished,13.06878,80.16327,8.25,1.8,97.34
+Mumbai,Thane West,3,1848,9,28,8,Semi-Furnished,19.00756,72.85287,8.05,1.47,410.44
+Bangalore,Indiranagar,3,1511,5,34,10,Fully Furnished,12.99106,77.69644,11.24,0.1,70.28
+Hyderabad,Jubilee Hills,3,1935,3,15,3,Fully Furnished,17.42081,78.35264,3.81,0.88,118.88
+Chennai,Adyar,1,735,13,19,1,Semi-Furnished,13.07721,80.19396,5.93,1.18,36.81
+Hyderabad,Kondapur,3,1418,14,19,20,Fully Furnished,17.3798,78.36248,7.72,0.63,48.88
+Chennai,Velachery,2,1059,4,18,1,Semi-Furnished,12.97411,80.23307,7.38,1.88,58.42
+Delhi,Vasant Kunj,1,512,9,22,10,Unfurnished,28.73162,77.31814,14.92,1.54,33.92
+Chennai,Medavakkam,2,848,6,9,3,Semi-Furnished,13.07519,80.22959,3.88,1.93,52.35
+Mumbai,Thane West,3,1581,3,28,0,Unfurnished,19.03885,72.86386,4.38,1.78,366.47
+Delhi,Greater Kailash,2,1019,3,12,0,Unfurnished,28.56624,77.10151,13.4,0.82,85.64
+Delhi,Vasant Kunj,1,595,10,35,20,Semi-Furnished,28.69467,77.17401,8.32,1.08,39.72
+Chennai,OMR,3,1541,8,14,1,Unfurnished,13.08021,80.18353,7.0,1.43,63.09
+Chennai,Anna Nagar,2,1126,5,9,5,Semi-Furnished,13.064,80.31029,8.7,2.01,36.11
+Kolkata,New Town,2,1316,7,14,8,Unfurnished,22.55018,88.4443,8.62,2.62,38.5
+Bangalore,Electronic City,4,2442,5,7,8,Unfurnished,12.92761,77.63677,6.69,0.63,117.58
+Chennai,Anna Nagar,3,1780,0,10,3,Semi-Furnished,13.05637,80.23242,1.77,1.15,91.12
+Hyderabad,Gachibowli,2,1226,4,6,5,Semi-Furnished,17.4551,78.2878,9.19,1.94,51.47
+Kolkata,New Town,2,1267,7,13,5,Semi-Furnished,22.51116,88.37241,6.89,0.1,57.01
+Chennai,Anna Nagar,3,2012,0,18,3,Fully Furnished,13.14363,80.191,12.36,1.22,110.56
+Chennai,Medavakkam,2,901,2,7,1,Fully Furnished,13.05999,80.20281,3.99,0.8,59.91
+Hyderabad,Kondapur,1,459,1,4,10,Semi-Furnished,17.43008,78.25678,12.61,1.07,20.1
+Delhi,Rohini,1,617,10,21,8,Semi-Furnished,28.61606,77.19569,2.68,0.89,56.15
+Kolkata,Rajarhat,3,2050,6,17,1,Semi-Furnished,22.54875,88.39056,3.81,0.95,85.24
+Mumbai,Worli,3,1542,14,16,2,Fully Furnished,19.15829,72.82503,10.69,1.78,403.86
+Bangalore,Indiranagar,2,1153,18,38,20,Unfurnished,12.85226,77.43521,21.78,1.31,36.91
+Hyderabad,Gachibowli,1,743,6,15,5,Semi-Furnished,17.47159,78.33231,5.13,1.87,41.79
+Hyderabad,Gachibowli,2,1197,0,11,3,Semi-Furnished,17.42548,78.35718,3.11,1.1,65.91
+Bangalore,Kanakapura Road,2,1133,11,33,5,Fully Furnished,13.03812,77.71434,14.93,1.12,59.69
+Delhi,Rohini,2,1124,8,12,8,Semi-Furnished,28.58191,77.17477,6.83,2.58,99.56
+Mumbai,Navi Mumbai,3,1823,19,29,3,Semi-Furnished,19.02367,72.80447,9.65,1.61,465.5
+Bangalore,HSR Layout,3,1578,5,6,2,Unfurnished,12.97688,77.48246,12.16,1.0,68.05
+Bangalore,Whitefield,2,886,9,22,20,Semi-Furnished,13.03508,77.57952,7.25,1.85,40.08
+Mumbai,Worli,2,1090,10,11,10,Unfurnished,18.97296,72.77244,15.93,1.97,205.99
+Chennai,Medavakkam,2,1117,8,19,10,Semi-Furnished,13.01508,80.22909,2.87,1.86,52.25
+Bangalore,Whitefield,1,591,7,15,15,Semi-Furnished,12.94366,77.5489,5.85,0.1,23.18
+Hyderabad,Jubilee Hills,2,1100,5,6,10,Semi-Furnished,17.48957,78.39928,5.31,0.9,55.41
+Chennai,Adyar,2,883,2,4,5,Semi-Furnished,13.03024,80.26802,3.89,2.11,40.67
+Bangalore,Indiranagar,2,1009,5,32,10,Fully Furnished,12.95051,77.57239,3.36,2.27,74.82
+Delhi,Dwarka,3,1667,16,24,2,Semi-Furnished,28.62269,77.10479,11.05,0.76,152.09
+Mumbai,Thane West,2,906,31,33,10,Fully Furnished,19.22322,72.84788,16.67,0.44,150.9
+Mumbai,Worli,2,917,6,40,1,Fully Furnished,19.1586,72.92277,10.33,0.33,208.88
+Mumbai,Thane West,2,1001,0,14,1,Semi-Furnished,19.18082,72.93353,13.05,0.75,181.96
+Delhi,Greater Kailash,2,1285,26,27,5,Unfurnished,28.74388,77.18997,12.91,1.16,89.66
+Delhi,Vasant Kunj,2,1162,36,40,15,Semi-Furnished,28.56451,77.19599,7.63,0.24,97.12
+Kolkata,Tollygunge,4,2400,4,6,1,Semi-Furnished,22.56723,88.38181,1.93,0.1,96.46
+Delhi,Rohini,3,1778,13,24,8,Unfurnished,28.6044,77.2789,6.64,1.63,171.53
+Bangalore,HSR Layout,2,1079,7,21,2,Semi-Furnished,12.93507,77.63414,5.9,1.77,75.04
+Bangalore,Kanakapura Road,3,1919,20,30,5,Semi-Furnished,12.96949,77.55486,4.31,0.1,132.39
+Hyderabad,Jubilee Hills,3,1886,5,14,1,Semi-Furnished,17.46445,78.35351,2.83,1.7,108.66
+Hyderabad,Madhapur,3,1981,10,17,15,Semi-Furnished,17.34192,78.44982,14.3,0.48,62.88
+Mumbai,Worli,3,1481,8,38,0,Unfurnished,19.24483,72.83096,19.4,2.22,239.39
+Mumbai,Andheri West,2,946,21,35,8,Semi-Furnished,18.98782,72.8437,10.44,1.78,168.84
+Kolkata,New Town,1,525,2,17,20,Semi-Furnished,22.62683,88.3835,6.36,2.17,13.74
+Mumbai,Worli,3,1424,3,4,8,Unfurnished,19.0269,72.88527,5.52,1.57,298.95
+Mumbai,Bandra West,1,659,12,16,8,Unfurnished,19.02199,72.87192,6.04,0.57,131.39
+Bangalore,Indiranagar,3,1465,1,5,8,Semi-Furnished,12.97168,77.5374,6.2,1.73,89.32
+Hyderabad,Kondapur,2,1014,0,9,5,Unfurnished,17.439,78.41614,4.58,0.98,54.32
+Chennai,Medavakkam,2,1112,9,12,10,Semi-Furnished,13.00541,80.25704,4.65,1.74,55.86
+Hyderabad,Kondapur,2,1211,4,6,15,Semi-Furnished,17.40228,78.31205,8.34,1.62,37.6
+Hyderabad,Kondapur,1,526,8,10,2,Fully Furnished,17.41073,78.37502,4.18,1.96,29.48
+Chennai,Anna Nagar,1,464,12,17,3,Semi-Furnished,13.04975,80.19158,4.68,1.37,28.53
+Hyderabad,Kukatpally,1,585,12,13,1,Unfurnished,17.453,78.34081,3.57,0.53,35.56
+Bangalore,Whitefield,3,2005,27,42,10,Semi-Furnished,12.95863,77.47273,13.28,1.2,86.05
+Delhi,Vasant Kunj,2,1254,8,19,8,Semi-Furnished,28.60321,77.30485,9.03,1.46,108.83
+Kolkata,Rajarhat,3,1572,0,3,2,Semi-Furnished,22.56768,88.34654,1.86,1.31,69.15
+Mumbai,Andheri West,1,537,23,41,10,Semi-Furnished,19.00193,72.88175,8.25,0.33,121.8
+Kolkata,New Town,1,510,1,6,5,Semi-Furnished,22.60555,88.35288,3.83,1.93,18.63
+Hyderabad,Madhapur,2,1264,0,4,2,Unfurnished,17.47461,78.37528,2.93,1.74,74.27
+Chennai,Velachery,3,1918,8,17,5,Semi-Furnished,12.97854,80.175,9.38,1.33,86.88
+Mumbai,Navi Mumbai,2,994,11,26,0,Fully Furnished,19.10097,72.8837,2.85,0.7,399.6
+Mumbai,Navi Mumbai,2,1233,11,29,5,Fully Furnished,19.1432,72.95696,11.19,0.66,297.9
+Mumbai,Bandra West,2,1138,10,31,2,Semi-Furnished,19.10206,72.86292,3.29,0.16,349.74
+Hyderabad,Madhapur,2,958,1,3,2,Semi-Furnished,17.42911,78.38321,2.34,0.53,70.42
+Chennai,OMR,3,1852,12,16,3,Semi-Furnished,13.07323,80.24109,3.73,1.43,123.5
+Kolkata,Howrah,2,1292,5,8,0,Unfurnished,22.55114,88.38744,3.4,0.1,58.5
+Hyderabad,Kukatpally,3,1524,3,10,2,Semi-Furnished,17.47385,78.37525,2.84,0.69,93.4
+Mumbai,Worli,4,2953,23,24,10,Unfurnished,19.07549,72.94019,6.57,1.69,596.11
+Bangalore,Kanakapura Road,2,1148,1,30,20,Unfurnished,13.11858,77.57731,16.45,0.91,32.4
+Chennai,Velachery,3,1803,0,16,8,Unfurnished,13.05288,80.23972,1.52,1.28,95.58
+Hyderabad,Jubilee Hills,2,1123,4,6,8,Semi-Furnished,17.40006,78.41887,7.16,0.33,56.22
+Chennai,Adyar,2,1202,3,12,3,Unfurnished,13.0296,80.18927,4.96,2.34,55.34
+Chennai,Velachery,2,911,2,5,10,Semi-Furnished,13.02219,80.25146,2.8,1.21,47.9
+Delhi,Rohini,3,1403,5,44,0,Fully Furnished,28.52368,77.23688,12.01,0.8,137.05
+Kolkata,Howrah,2,1314,4,11,8,Semi-Furnished,22.54291,88.32527,5.16,1.85,58.62
+Kolkata,Howrah,3,1810,0,10,3,Semi-Furnished,22.54177,88.34885,3.76,0.1,72.91
+Delhi,Saket,1,561,26,28,8,Unfurnished,28.6555,77.3018,8.67,1.72,40.19
+Mumbai,Andheri West,2,880,25,26,8,Fully Furnished,19.16256,72.91752,10.49,1.85,202.94
+Mumbai,Bandra West,3,1876,16,20,8,Semi-Furnished,19.04654,72.85931,3.8,0.45,469.66
+Mumbai,Andheri West,2,899,13,38,8,Fully Furnished,19.13164,72.91166,7.14,0.96,217.09
+Chennai,Anna Nagar,2,967,13,15,5,Semi-Furnished,13.04085,80.20729,2.86,1.76,56.94
+Bangalore,Indiranagar,3,2059,7,40,2,Semi-Furnished,13.04539,77.69915,13.99,1.97,95.05
+Bangalore,Electronic City,3,1994,13,15,3,Unfurnished,12.87742,77.64234,11.68,0.89,96.62
+Hyderabad,Gachibowli,4,2716,2,7,0,Semi-Furnished,17.41054,78.46612,10.63,0.77,102.05
+Hyderabad,Gachibowli,3,2093,8,12,20,Unfurnished,17.41476,78.3945,4.31,1.74,89.23
+Chennai,OMR,2,1317,0,11,2,Semi-Furnished,13.05991,80.23525,2.16,0.13,76.36
+Bangalore,Indiranagar,2,1144,10,29,5,Unfurnished,13.02359,77.69014,11.86,2.7,58.73
+Kolkata,Tollygunge,2,947,1,4,20,Unfurnished,22.65627,88.41752,10.81,0.16,25.03
+Delhi,Dwarka,3,1959,18,25,15,Unfurnished,28.67708,77.36913,15.66,2.92,104.1
+Kolkata,Tollygunge,3,1424,3,11,15,Unfurnished,22.5797,88.34386,2.2,1.7,48.83
+Mumbai,Navi Mumbai,3,1661,27,28,10,Semi-Furnished,19.07412,72.87073,0.76,1.38,419.1
+Bangalore,Whitefield,2,1047,38,43,1,Fully Furnished,12.99007,77.48789,11.74,2.18,83.67
+Hyderabad,Gachibowli,2,868,17,18,3,Semi-Furnished,17.38991,78.26145,13.6,1.57,32.58
+Delhi,Vasant Kunj,2,1118,13,30,2,Semi-Furnished,28.54637,77.23011,9.42,2.33,113.01
+Mumbai,Andheri West,2,1094,1,24,5,Unfurnished,19.01312,72.82246,9.09,1.44,223.8
+Hyderabad,Kondapur,2,1051,9,13,0,Semi-Furnished,17.47127,78.34533,3.98,1.2,42.81
+Chennai,Adyar,2,1006,5,8,1,Semi-Furnished,13.08945,80.19344,6.97,1.18,48.92
+Mumbai,Bandra West,4,2441,0,8,2,Unfurnished,19.08686,72.8843,1.39,0.64,627.98
+Delhi,Dwarka,2,1118,15,42,10,Unfurnished,28.60084,77.25186,4.68,1.65,108.56
+Mumbai,Worli,3,1438,15,26,8,Semi-Furnished,19.1054,72.86516,3.52,1.94,362.53
+Kolkata,Rajarhat,2,1171,1,3,0,Unfurnished,22.55173,88.3521,2.62,1.98,57.09
+Delhi,Vasant Kunj,2,914,21,22,2,Fully Furnished,28.63674,77.12607,8.97,0.1,110.73
+Bangalore,Kanakapura Road,2,1088,0,4,5,Semi-Furnished,13.06552,77.43145,20.53,2.07,45.93
+Kolkata,Rajarhat,3,1638,6,19,1,Semi-Furnished,22.58519,88.32722,4.02,0.93,66.68
+Bangalore,Electronic City,2,992,25,35,2,Unfurnished,12.9684,77.54105,5.81,2.82,72.24
+Hyderabad,Gachibowli,2,892,6,11,3,Unfurnished,17.46999,78.3944,3.23,0.47,48.07
+Delhi,Dwarka,3,1538,35,43,10,Semi-Furnished,28.61932,77.17581,4.27,0.98,180.47
+Mumbai,Navi Mumbai,2,1132,7,17,0,Semi-Furnished,19.05242,72.93155,6.24,0.34,249.59
+Bangalore,HSR Layout,3,1521,11,12,5,Unfurnished,13.0123,77.58037,4.78,2.09,87.18
+Mumbai,Thane West,3,1649,2,20,8,Semi-Furnished,19.17252,72.9877,15.77,2.27,221.02
+Chennai,Adyar,2,1064,4,5,8,Fully Furnished,12.98304,80.16931,9.46,0.81,46.11
+Chennai,Medavakkam,3,2081,1,10,3,Fully Furnished,13.12253,80.20748,9.55,2.3,83.91
+Hyderabad,Kukatpally,2,1313,5,19,5,Semi-Furnished,17.43835,78.3092,6.97,1.65,65.16
+Bangalore,Kanakapura Road,2,955,6,13,8,Semi-Furnished,12.84806,77.57403,13.92,2.03,45.31
+Kolkata,Tollygunge,3,1739,1,16,8,Semi-Furnished,22.52217,88.28539,9.82,1.48,46.52
+Kolkata,Salt Lake,2,1254,11,18,2,Semi-Furnished,22.54914,88.38969,3.72,0.63,58.26
+Chennai,OMR,1,746,11,13,8,Unfurnished,12.98967,80.22394,5.75,1.17,33.78
+Kolkata,New Town,3,1755,2,12,5,Fully Furnished,22.62617,88.4447,10.21,1.97,72.15
+Bangalore,Indiranagar,3,1972,27,37,5,Unfurnished,12.87682,77.55588,11.34,1.76,106.97
+Bangalore,Kanakapura Road,4,4123,10,35,10,Semi-Furnished,12.96313,77.67332,8.58,1.21,231.65
+Kolkata,New Town,1,474,5,11,2,Unfurnished,22.57267,88.31283,5.24,2.09,21.6
+Hyderabad,Gachibowli,2,1205,0,18,5,Semi-Furnished,17.56752,78.34224,13.68,0.93,50.04
+Hyderabad,Madhapur,4,2842,5,19,5,Unfurnished,17.47462,78.38217,3.05,1.37,169.5
+Bangalore,HSR Layout,2,949,19,23,2,Semi-Furnished,12.94501,77.60703,3.25,1.33,67.7
+Bangalore,Kanakapura Road,4,3151,19,38,2,Semi-Furnished,13.01567,77.5383,7.82,1.92,183.45
+Mumbai,Navi Mumbai,1,675,28,33,0,Semi-Furnished,19.01039,72.80027,10.93,2.51,136.49
+Delhi,Greater Kailash,2,1075,7,43,3,Unfurnished,28.6237,77.17144,4.58,1.47,105.85
+Bangalore,Kanakapura Road,2,859,36,39,1,Fully Furnished,12.94019,77.67093,8.98,0.12,57.86
+Delhi,Saket,3,1410,23,43,5,Unfurnished,28.71152,77.23463,9.17,1.39,109.85
+Kolkata,Rajarhat,2,1289,7,14,8,Unfurnished,22.51331,88.27102,11.6,1.63,47.14
+Chennai,Velachery,3,1439,11,14,8,Semi-Furnished,12.98128,80.21372,6.93,2.56,66.68
+Mumbai,Worli,3,1838,16,20,1,Semi-Furnished,19.01889,72.94531,9.53,1.94,412.9
+Mumbai,Thane West,2,1109,37,41,10,Unfurnished,19.09965,72.81703,6.9,2.38,207.75
+Bangalore,HSR Layout,2,1205,2,9,15,Fully Furnished,13.06832,77.72571,17.82,0.44,52.48
+Hyderabad,Gachibowli,3,1748,5,9,8,Semi-Furnished,17.41643,78.40313,4.7,0.32,93.95
+Delhi,Saket,1,604,25,27,2,Fully Furnished,28.58435,77.16512,7.25,0.1,75.37
+Kolkata,Salt Lake,2,1028,6,19,15,Semi-Furnished,22.65215,88.35567,8.89,1.16,26.85
+Kolkata,New Town,2,1266,0,3,3,Semi-Furnished,22.61101,88.37252,4.36,1.61,78.03
+Mumbai,Thane West,1,497,7,11,15,Semi-Furnished,19.02419,72.83276,7.45,2.43,87.21
+Bangalore,Electronic City,2,938,20,24,10,Fully Furnished,13.10547,77.65509,16.26,1.42,38.48
+Kolkata,New Town,2,1292,7,13,0,Fully Furnished,22.5775,88.41573,5.35,0.62,71.34
+Bangalore,HSR Layout,2,805,16,29,2,Fully Furnished,12.88954,77.67488,12.61,1.47,53.02
+Hyderabad,Kondapur,3,1504,7,16,2,Semi-Furnished,17.39949,78.25796,13.46,0.67,72.47
+Delhi,Saket,4,2808,22,27,20,Semi-Furnished,28.66883,77.20627,4.42,1.46,197.75
+Delhi,Vasant Kunj,2,1309,1,6,15,Semi-Furnished,28.55158,77.26893,10.09,0.76,80.53
+Bangalore,HSR Layout,3,1955,1,4,1,Unfurnished,12.85208,77.48585,17.76,0.98,86.26
+Delhi,Rohini,2,1232,13,18,5,Semi-Furnished,28.60543,77.24235,3.67,0.38,129.84
+Chennai,Velachery,2,869,2,5,3,Semi-Furnished,13.02663,80.26231,3.46,1.88,53.34
+Hyderabad,Gachibowli,1,602,5,15,2,Unfurnished,17.44094,78.3797,1.01,0.3,46.23
+Delhi,Dwarka,3,1429,5,11,3,Semi-Furnished,28.60858,77.24634,3.7,1.43,157.02
+Delhi,Rohini,2,1046,14,24,10,Semi-Furnished,28.54011,77.22526,10.07,1.22,86.4
+Chennai,Velachery,2,965,7,17,10,Semi-Furnished,12.96453,80.12041,14.9,0.84,35.89
+Bangalore,Kanakapura Road,2,1044,1,8,3,Unfurnished,12.93427,77.6104,4.49,2.67,51.42
+Delhi,Saket,2,1048,10,22,0,Semi-Furnished,28.60985,77.22793,2.49,0.43,119.49
+Bangalore,Indiranagar,2,921,2,4,3,Semi-Furnished,12.99983,77.62453,4.51,0.1,67.15
+Delhi,Rohini,1,638,1,35,5,Unfurnished,28.65837,77.11243,10.73,0.85,45.83
+Bangalore,Whitefield,2,1303,9,33,2,Unfurnished,12.81367,77.54818,18.27,0.28,47.98
+Chennai,Medavakkam,2,970,7,8,3,Unfurnished,13.05562,80.26381,3.67,0.88,47.32
+Delhi,Dwarka,2,1011,3,20,2,Unfurnished,28.65068,77.20268,2.69,2.2,107.52
+Bangalore,Kanakapura Road,3,1903,13,26,8,Unfurnished,13.06587,77.5614,11.08,1.26,87.45
+Mumbai,Andheri West,2,882,27,28,1,Semi-Furnished,19.06028,72.91567,4.36,1.88,242.09
+Mumbai,Bandra West,3,1893,10,38,0,Semi-Furnished,19.00876,72.86871,7.54,0.29,462.27
+Chennai,Velachery,2,1057,5,18,8,Semi-Furnished,13.03353,80.26329,3.3,0.33,62.01
+Delhi,Greater Kailash,2,1273,11,43,3,Unfurnished,28.68749,77.15643,8.72,1.58,108.94
+Chennai,Velachery,2,1319,3,15,3,Semi-Furnished,12.94123,80.2093,11.35,1.74,51.15
+Bangalore,HSR Layout,3,1835,19,32,8,Semi-Furnished,12.98925,77.51158,9.21,1.69,109.23
+Delhi,Saket,1,429,3,32,15,Fully Furnished,28.72447,77.16613,11.61,1.62,28.39
+Hyderabad,Gachibowli,2,1349,1,6,3,Unfurnished,17.49398,78.30535,8.89,1.61,68.05
+Kolkata,Salt Lake,2,1099,2,4,3,Semi-Furnished,22.61725,88.43708,9.01,0.87,43.48
+Hyderabad,Gachibowli,2,815,11,17,0,Fully Furnished,17.50398,78.40667,7.09,2.38,53.8
+Hyderabad,Gachibowli,3,1580,2,14,8,Semi-Furnished,17.40194,78.42391,7.38,1.92,77.11
+Delhi,Dwarka,3,1715,15,40,2,Unfurnished,28.67142,77.21437,4.57,2.13,150.67
+Delhi,Vasant Kunj,1,735,9,15,0,Unfurnished,28.61323,77.09081,12.53,1.03,63.97
+Delhi,Greater Kailash,2,1120,1,17,0,Fully Furnished,28.70207,77.27294,9.62,3.04,114.61
+Hyderabad,Madhapur,2,1079,3,8,20,Semi-Furnished,17.49131,78.24769,14.23,1.5,33.23
+Chennai,Anna Nagar,3,1495,10,15,0,Fully Furnished,13.09961,80.28013,8.28,1.11,89.96
+Chennai,Adyar,2,1195,11,17,15,Semi-Furnished,13.09875,80.18388,8.43,0.38,51.04
+Hyderabad,Kondapur,2,1171,0,5,5,Unfurnished,17.36741,78.42945,10.74,1.71,46.56
+Kolkata,Howrah,4,2490,0,4,20,Unfurnished,22.57876,88.40087,3.86,0.85,84.32
+Mumbai,Thane West,1,495,0,4,3,Fully Furnished,19.18948,72.77819,16.39,2.22,96.88
+Chennai,Adyar,2,987,6,11,10,Semi-Furnished,13.05133,80.19267,4.6,2.08,52.61
+Kolkata,Salt Lake,3,2052,5,15,2,Unfurnished,22.62883,88.39311,6.93,1.14,60.27
+Delhi,Saket,1,425,11,42,3,Unfurnished,28.56698,77.16005,9.02,1.74,42.61
+Bangalore,Electronic City,2,1322,27,41,15,Semi-Furnished,12.97143,77.55335,4.47,0.33,83.91
+Bangalore,HSR Layout,3,1775,15,27,0,Semi-Furnished,12.92265,77.67597,10.36,1.24,113.64
+Kolkata,Rajarhat,4,2459,6,11,8,Semi-Furnished,22.64389,88.34074,8.28,0.6,74.64
+Bangalore,Whitefield,2,853,28,33,10,Semi-Furnished,12.91516,77.59016,6.29,0.42,51.31
+Mumbai,Worli,1,446,9,28,8,Unfurnished,19.01113,72.96643,11.79,0.42,55.98
+Mumbai,Andheri West,2,1240,3,4,3,Unfurnished,19.19207,72.94999,14.98,0.15,176.3
+Mumbai,Thane West,2,1059,18,27,2,Semi-Furnished,19.2492,72.92532,19.9,1.37,193.85
+Bangalore,Indiranagar,2,1176,3,34,5,Semi-Furnished,12.86121,77.5384,13.7,1.14,54.4
+Kolkata,New Town,2,1288,0,9,2,Fully Furnished,22.68617,88.34772,12.74,1.59,52.38
+Delhi,Rohini,2,843,29,40,8,Semi-Furnished,28.62432,77.18813,2.96,3.31,99.21
+Chennai,Anna Nagar,4,2354,3,4,0,Unfurnished,13.08254,80.21947,4.92,0.35,132.11
+Delhi,Vasant Kunj,2,1221,28,37,0,Unfurnished,28.6128,77.13073,8.71,1.46,139.91
+Kolkata,New Town,3,1584,8,19,0,Semi-Furnished,22.56705,88.36875,0.79,1.01,80.04
+Chennai,Medavakkam,3,1879,2,17,1,Unfurnished,13.04836,80.28299,5.41,2.35,77.4
+Bangalore,HSR Layout,2,1148,2,7,0,Unfurnished,12.80525,77.57089,18.67,1.04,47.77
+Chennai,Adyar,3,1733,7,13,2,Unfurnished,13.04926,80.18023,5.87,0.87,87.28
+Hyderabad,Gachibowli,1,553,10,15,5,Unfurnished,17.4954,78.44108,8.83,2.08,28.27
+Hyderabad,Gachibowli,1,455,1,3,20,Unfurnished,17.43017,78.21791,16.69,0.91,11.83
+Delhi,Rohini,2,1336,14,15,3,Semi-Furnished,28.63869,77.18604,3.22,1.52,124.69
+Bangalore,Indiranagar,4,3532,2,4,8,Semi-Furnished,12.97947,77.59779,0.94,1.14,274.45
+Kolkata,Salt Lake,2,1238,4,19,8,Unfurnished,22.61952,88.32705,6.44,1.51,31.55
+Bangalore,Kanakapura Road,3,1709,8,24,2,Semi-Furnished,12.9832,77.55609,4.37,0.18,139.06
+Bangalore,Indiranagar,2,957,22,42,2,Unfurnished,12.95914,77.63099,4.18,1.79,55.27
+Bangalore,Indiranagar,2,849,20,34,8,Semi-Furnished,12.97487,77.5871,0.89,2.15,54.11
+Chennai,Velachery,1,500,8,13,2,Unfurnished,12.99408,80.25641,5.72,0.55,19.81
+Bangalore,Electronic City,4,3726,0,38,1,Unfurnished,12.92459,77.60251,5.3,0.49,214.28
+Hyderabad,Kukatpally,2,1020,1,3,1,Unfurnished,17.43045,78.45282,8.58,1.46,49.07
+Hyderabad,Kondapur,2,844,8,9,2,Unfurnished,17.35494,78.48586,15.76,0.62,32.26
+Hyderabad,Jubilee Hills,3,1414,15,19,2,Semi-Furnished,17.50821,78.35555,6.95,0.31,68.19
+Chennai,Medavakkam,2,1324,4,11,0,Fully Furnished,13.02062,80.22107,2.6,0.1,100.63
+Delhi,Rohini,2,1067,6,26,20,Semi-Furnished,28.67234,77.20309,4.88,1.21,74.22
+Chennai,OMR,3,1488,6,12,5,Semi-Furnished,13.01826,80.19757,4.63,1.14,80.95
+Delhi,Vasant Kunj,3,1591,8,19,3,Semi-Furnished,28.55575,77.31756,12.8,1.21,125.66
+Bangalore,Whitefield,3,2011,7,43,0,Semi-Furnished,12.86603,77.51361,14.66,1.18,91.77
+Bangalore,Electronic City,2,972,29,32,2,Semi-Furnished,12.93205,77.62422,5.44,1.47,69.93
+Bangalore,Electronic City,2,1281,29,42,15,Fully Furnished,12.9706,77.58549,0.99,1.4,88.68
+Kolkata,Salt Lake,3,2020,4,5,0,Semi-Furnished,22.62407,88.39879,6.75,0.29,90.6
+Bangalore,HSR Layout,2,922,16,44,3,Semi-Furnished,12.98411,77.68065,9.43,1.68,48.27
+Bangalore,HSR Layout,4,2810,19,20,1,Semi-Furnished,13.00471,77.66021,8.01,0.42,208.96
+Kolkata,New Town,1,469,12,17,2,Semi-Furnished,22.61808,88.34882,5.29,1.81,18.01
+Chennai,Anna Nagar,2,800,5,8,20,Unfurnished,12.97616,80.23802,7.17,1.09,22.58
+Mumbai,Navi Mumbai,3,1967,15,40,10,Semi-Furnished,18.89408,72.9631,22.13,2.19,248.23
+Bangalore,Whitefield,2,1302,24,42,3,Fully Furnished,12.9775,77.71019,12.54,1.92,65.9
+Bangalore,Whitefield,2,1225,0,36,1,Semi-Furnished,12.92157,77.63109,6.83,1.46,75.23
+Delhi,Vasant Kunj,2,1343,1,19,0,Unfurnished,28.57187,77.26422,7.94,1.43,123.73
+Mumbai,Navi Mumbai,1,581,17,18,10,Unfurnished,19.02062,72.79894,10.32,1.28,130.22
+Delhi,Saket,2,870,3,4,20,Fully Furnished,28.64972,77.21703,2.15,0.55,86.58
+Bangalore,Kanakapura Road,3,1920,7,41,2,Unfurnished,13.01813,77.5559,6.66,2.0,105.75
+Bangalore,Whitefield,2,1085,0,37,15,Unfurnished,12.99862,77.59113,3.03,1.69,59.93
+Delhi,Dwarka,2,1270,11,22,0,Semi-Furnished,28.65826,77.18467,4.47,1.45,125.66
+Mumbai,Thane West,3,1720,10,13,0,Semi-Furnished,19.05977,72.88651,2.03,2.46,479.74
+Hyderabad,Jubilee Hills,2,961,1,4,1,Semi-Furnished,17.36499,78.27808,13.77,0.23,41.49
+Hyderabad,Gachibowli,3,1837,2,3,15,Unfurnished,17.43369,78.31747,6.22,0.69,78.75
+Hyderabad,Kukatpally,2,1347,6,8,3,Semi-Furnished,17.42444,78.30306,7.99,0.88,67.92
+Bangalore,Indiranagar,2,1345,17,34,15,Semi-Furnished,13.08031,77.42086,22.37,1.78,46.18
+Chennai,Anna Nagar,3,1502,0,19,1,Unfurnished,13.09747,80.25042,6.59,1.61,87.53
+Delhi,Vasant Kunj,3,1455,3,5,5,Semi-Furnished,28.67571,77.36798,15.51,1.84,113.33
+Mumbai,Thane West,1,602,7,27,2,Semi-Furnished,19.08742,72.85459,2.74,0.72,129.99
+Chennai,Velachery,1,717,9,10,8,Semi-Furnished,13.01362,80.27644,5.51,1.34,29.35
+Chennai,OMR,2,1073,0,16,1,Unfurnished,12.99412,80.27647,6.93,0.17,53.17
+Bangalore,HSR Layout,2,906,19,22,3,Semi-Furnished,12.96149,77.57039,2.85,0.1,65.19
+Kolkata,Tollygunge,3,1879,0,3,2,Semi-Furnished,22.46279,88.35742,12.23,1.31,69.58
+Mumbai,Bandra West,2,1107,21,27,3,Unfurnished,19.11256,72.93022,6.85,1.65,191.69
+Delhi,Saket,2,1286,25,29,5,Semi-Furnished,28.70993,77.13329,12.08,1.67,101.88
+Mumbai,Navi Mumbai,2,1235,9,15,5,Semi-Furnished,18.88681,72.90616,21.25,2.18,186.33
+Kolkata,New Town,3,2060,2,16,3,Semi-Furnished,22.61023,88.3164,6.43,1.35,93.87
+Hyderabad,Kukatpally,2,1308,6,10,5,Semi-Furnished,17.40986,78.59356,23.67,1.49,44.44
+Hyderabad,Kukatpally,3,1756,6,7,8,Unfurnished,17.48056,78.39979,4.5,0.98,70.56
+Bangalore,Kanakapura Road,2,953,2,27,2,Unfurnished,12.96509,77.57783,1.96,2.09,64.14
+Delhi,Greater Kailash,2,918,6,15,5,Unfurnished,28.59391,77.23949,4.58,1.45,67.2
+Delhi,Rohini,3,1531,7,9,2,Semi-Furnished,28.57045,77.23089,6.79,1.49,134.45
+Mumbai,Thane West,2,1319,3,11,0,Semi-Furnished,19.02091,72.86101,6.37,1.85,331.74
+Kolkata,New Town,2,1035,1,3,8,Unfurnished,22.60014,88.35611,3.16,1.2,43.22
+Hyderabad,Madhapur,3,1845,7,12,20,Semi-Furnished,17.45006,78.35788,1.73,1.12,99.36
+Chennai,Velachery,2,1242,10,12,2,Semi-Furnished,13.07557,80.26544,5.2,2.15,65.9
+Delhi,Saket,2,856,19,37,3,Semi-Furnished,28.70105,77.20495,7.95,0.78,68.56
+Kolkata,New Town,2,887,10,19,10,Semi-Furnished,22.61721,88.37477,5.08,0.8,28.23
+Mumbai,Navi Mumbai,3,1441,0,19,0,Semi-Furnished,19.01771,72.96364,11.12,2.5,285.13
+Mumbai,Bandra West,4,2204,1,15,0,Fully Furnished,18.99091,72.84992,9.9,0.44,532.27
+Chennai,Medavakkam,3,1657,4,15,1,Semi-Furnished,13.01977,80.27146,4.7,0.83,94.08
+Mumbai,Navi Mumbai,2,1161,15,18,1,Semi-Furnished,19.23997,72.86626,18.27,0.1,180.36
+Hyderabad,Kukatpally,3,1820,7,9,2,Fully Furnished,17.44754,78.38166,0.81,0.9,104.02
+Kolkata,Howrah,4,2815,0,7,0,Semi-Furnished,22.55441,88.36589,2.03,1.15,124.4
+Kolkata,Tollygunge,2,1111,9,13,3,Semi-Furnished,22.56101,88.31085,5.6,2.29,46.58
+Mumbai,Navi Mumbai,4,3809,6,7,5,Semi-Furnished,19.00696,72.81278,10.27,0.61,668.87
+Mumbai,Thane West,2,900,13,44,3,Semi-Furnished,19.16039,72.87022,9.42,0.66,167.85
+Chennai,OMR,3,2081,1,5,8,Unfurnished,12.99638,80.17676,7.88,0.57,88.62
+Kolkata,Tollygunge,3,1598,14,17,20,Semi-Furnished,22.57856,88.36122,0.72,1.43,56.03
+Delhi,Dwarka,3,1479,29,33,20,Semi-Furnished,28.73755,77.23552,12.04,1.75,98.06
+Kolkata,New Town,3,1902,15,17,5,Unfurnished,22.52506,88.35675,5.34,0.95,80.4
+Delhi,Rohini,3,1813,12,22,2,Unfurnished,28.56128,77.24222,8.05,2.66,169.16
+Chennai,Anna Nagar,2,1124,9,12,8,Fully Furnished,13.0396,80.22552,0.89,0.89,70.48
+Bangalore,Kanakapura Road,1,491,4,20,0,Unfurnished,12.97938,77.62102,2.99,1.11,32.9
+Hyderabad,Jubilee Hills,4,3394,5,12,15,Semi-Furnished,17.43871,78.43029,6.06,0.17,192.39
+Bangalore,Kanakapura Road,4,2279,4,31,1,Semi-Furnished,12.97236,77.63387,4.26,0.19,144.41
+Kolkata,Rajarhat,2,1183,2,10,8,Semi-Furnished,22.60699,88.42953,7.75,0.88,47.13
+Chennai,Anna Nagar,2,908,0,15,15,Unfurnished,13.0364,80.27733,4.75,0.58,42.58
+Delhi,Vasant Kunj,4,4126,18,39,8,Fully Furnished,28.74766,77.29238,14.94,1.22,330.87
+Chennai,Adyar,2,1347,1,14,3,Semi-Furnished,13.01462,80.22177,3.15,0.77,70.59
+Bangalore,Whitefield,3,1687,18,25,2,Semi-Furnished,13.07206,77.57029,11.48,2.36,93.92
+Chennai,Velachery,3,1921,0,9,5,Fully Furnished,13.04871,80.32155,9.56,1.59,94.45
+Kolkata,New Town,2,1201,2,10,15,Unfurnished,22.55297,88.33953,3.32,2.51,42.95
+Hyderabad,Madhapur,3,1808,0,6,3,Semi-Furnished,17.41568,78.32837,6.06,0.96,88.75
+Hyderabad,Kondapur,2,977,3,19,3,Unfurnished,17.53964,78.3787,10.17,2.97,44.93
+Bangalore,HSR Layout,2,918,1,9,3,Semi-Furnished,12.97132,77.57716,1.89,2.49,55.44
+Bangalore,Electronic City,1,731,6,13,8,Unfurnished,12.86531,77.58835,11.84,1.63,31.7
+Bangalore,Kanakapura Road,3,1676,7,28,0,Semi-Furnished,12.99216,77.58989,2.34,0.29,108.28
+Chennai,Adyar,3,1819,10,13,8,Semi-Furnished,13.02068,80.22694,2.32,0.18,86.51
+Bangalore,Indiranagar,3,1795,0,13,3,Semi-Furnished,13.03684,77.67137,11.04,2.07,110.1
+Chennai,Adyar,2,1316,2,4,0,Unfurnished,13.13006,80.23959,9.98,1.35,48.63
+Chennai,OMR,4,2646,6,9,15,Fully Furnished,12.93869,80.2356,11.32,1.0,83.2
+Chennai,Adyar,3,1565,4,10,8,Unfurnished,13.07007,80.26091,4.42,1.45,64.02
+Delhi,Rohini,1,565,0,21,1,Semi-Furnished,28.51661,77.21725,12.65,0.82,36.78
+Delhi,Greater Kailash,2,1263,26,27,2,Semi-Furnished,28.64812,77.17111,4.96,1.33,146.2
+Delhi,Saket,3,1586,15,29,1,Semi-Furnished,28.66495,77.20873,3.94,2.1,187.0
+Chennai,Medavakkam,2,838,5,8,0,Unfurnished,13.05654,80.22712,1.92,1.81,49.45
+Delhi,Vasant Kunj,3,2010,2,23,2,Unfurnished,28.53119,77.23358,11.14,1.81,176.3
+Kolkata,Tollygunge,2,1057,5,17,15,Fully Furnished,22.6466,88.35632,8.27,1.74,36.96
+Chennai,OMR,3,1745,0,18,0,Unfurnished,12.99094,80.27052,6.8,0.59,80.04
+Chennai,Adyar,1,554,7,13,2,Semi-Furnished,13.01285,80.26153,4.31,2.14,29.31
+Kolkata,Howrah,2,1247,8,18,0,Semi-Furnished,22.57833,88.43601,7.43,2.5,60.0
+Chennai,Anna Nagar,2,1348,4,16,2,Semi-Furnished,13.0467,80.20866,2.8,1.28,70.62
+Bangalore,Kanakapura Road,1,704,9,10,3,Unfurnished,13.0548,77.72406,16.8,1.87,32.97
+Kolkata,New Town,3,1528,4,8,2,Semi-Furnished,22.57384,88.33115,3.37,0.17,57.49
+Delhi,Saket,3,1401,0,4,0,Semi-Furnished,28.60273,77.26309,5.39,0.1,161.08
+Bangalore,Indiranagar,2,1291,15,18,5,Semi-Furnished,12.96999,77.55026,4.81,1.73,75.7
+Mumbai,Bandra West,2,1098,14,36,2,Semi-Furnished,19.06331,72.92779,5.45,1.64,259.5
+Hyderabad,Madhapur,2,827,0,18,1,Semi-Furnished,17.28809,78.48225,21.19,1.87,21.85
+Bangalore,Kanakapura Road,2,980,8,19,3,Unfurnished,12.91178,77.60111,6.69,0.7,53.38
+Hyderabad,Madhapur,3,1438,4,19,1,Unfurnished,17.47367,78.20765,17.88,1.02,45.37
+Kolkata,Salt Lake,3,1894,3,18,5,Semi-Furnished,22.55589,88.38689,3.0,1.6,77.44
+Hyderabad,Kukatpally,2,1305,1,6,2,Fully Furnished,17.45623,78.36722,1.14,0.49,100.77
+Chennai,OMR,3,1542,11,19,15,Fully Furnished,13.09203,80.20763,6.39,0.27,83.58
+Bangalore,Indiranagar,3,1719,27,36,2,Unfurnished,12.97852,77.55516,4.34,1.08,107.72
+Delhi,Greater Kailash,3,1980,1,6,3,Unfurnished,28.6,77.16674,6.01,0.97,169.21
+Delhi,Saket,4,2629,1,34,2,Semi-Furnished,28.74206,77.22548,12.44,1.52,188.58
+Chennai,OMR,1,729,5,9,5,Unfurnished,13.00202,80.25559,4.89,2.29,28.62
+Bangalore,Electronic City,3,1807,1,39,2,Fully Furnished,13.06783,77.57254,10.96,1.94,112.35
+Delhi,Rohini,3,1957,7,33,15,Fully Furnished,28.55009,77.26949,10.26,0.41,146.7
+Bangalore,HSR Layout,3,1674,17,22,0,Semi-Furnished,13.07254,77.55873,11.88,1.24,91.85
+Mumbai,Andheri West,2,1166,20,31,10,Semi-Furnished,19.07273,72.88443,0.79,0.81,259.97
+Kolkata,Howrah,1,506,12,18,20,Semi-Furnished,22.53864,88.24733,12.55,1.62,11.0
+Mumbai,Andheri West,2,1168,6,9,15,Semi-Furnished,19.13954,72.93637,9.38,1.75,179.4
+Bangalore,Electronic City,4,2924,0,5,15,Semi-Furnished,13.07534,77.57477,11.73,0.75,112.77
+Delhi,Vasant Kunj,2,1242,8,42,1,Semi-Furnished,28.55631,77.27515,9.97,0.46,115.98
+Bangalore,Whitefield,3,1528,2,27,5,Fully Furnished,13.04388,77.70407,14.33,0.26,72.53
+Delhi,Rohini,2,1150,1,6,8,Semi-Furnished,28.55412,77.14286,11.2,0.96,89.62
+Mumbai,Navi Mumbai,3,1792,27,39,15,Fully Furnished,18.99902,72.89071,8.67,1.25,337.88
+Delhi,Greater Kailash,2,1030,4,12,15,Unfurnished,28.5939,77.25325,5.34,1.53,82.47
+Mumbai,Bandra West,2,1222,3,8,5,Semi-Furnished,19.13383,72.88217,6.45,2.01,277.05
+Chennai,Anna Nagar,3,1785,2,3,10,Unfurnished,13.00433,80.26021,4.94,1.99,72.03
+Mumbai,Andheri West,4,2531,4,23,3,Semi-Furnished,19.11397,72.93639,7.47,1.43,492.04
+Delhi,Greater Kailash,2,1297,7,12,8,Unfurnished,28.57742,77.15527,8.48,1.29,106.7
+Chennai,Anna Nagar,2,1326,17,19,10,Semi-Furnished,13.07356,80.18311,6.6,1.82,54.99
+Hyderabad,Kukatpally,2,1340,10,19,15,Semi-Furnished,17.42405,78.39003,3.18,2.29,64.63
+Hyderabad,Kukatpally,3,1839,0,11,15,Semi-Furnished,17.38258,78.1835,21.5,1.42,50.3
+Bangalore,Indiranagar,4,3855,10,24,2,Unfurnished,12.82528,77.58268,16.32,0.99,163.22
+Chennai,Velachery,1,671,3,13,2,Unfurnished,13.02188,80.26051,3.57,1.01,32.9
+Kolkata,Salt Lake,3,1465,0,9,8,Fully Furnished,22.58382,88.34074,2.69,1.15,55.23
+Chennai,OMR,2,1036,0,12,5,Unfurnished,13.02274,80.25029,2.67,0.93,57.52
+Delhi,Rohini,2,824,3,11,8,Semi-Furnished,28.62405,77.21527,0.74,1.24,81.98
+Kolkata,Howrah,1,634,4,13,2,Fully Furnished,22.57513,88.42349,6.13,0.55,28.34
+Bangalore,Electronic City,2,883,18,29,3,Semi-Furnished,12.95771,77.53287,6.87,1.35,60.07
+Bangalore,Kanakapura Road,1,673,10,38,5,Semi-Furnished,12.97491,77.50511,9.7,3.07,35.6
+Chennai,Anna Nagar,3,1420,7,16,3,Fully Furnished,13.03637,80.31769,9.11,1.64,79.11
+Chennai,Medavakkam,1,642,16,17,3,Unfurnished,12.99888,80.17744,7.65,0.28,33.92
+Kolkata,Tollygunge,2,1215,3,4,15,Semi-Furnished,22.53853,88.40261,5.49,2.0,46.51
+Kolkata,Rajarhat,4,3043,3,5,15,Unfurnished,22.53401,88.42828,7.88,1.38,95.18
+Delhi,Saket,3,2047,0,8,10,Unfurnished,28.56655,77.21711,7.1,0.15,138.75
+Delhi,Dwarka,3,1406,5,17,20,Semi-Furnished,28.57631,77.2539,6.98,0.55,94.96
+Mumbai,Thane West,1,622,2,43,3,Semi-Furnished,19.10201,72.8745,2.91,0.86,135.36
+Kolkata,New Town,2,857,11,16,5,Fully Furnished,22.43942,88.36426,14.81,0.86,29.19
+Bangalore,Electronic City,2,946,2,13,10,Unfurnished,13.07901,77.67317,14.67,0.83,39.7
+Mumbai,Bandra West,3,2018,4,5,5,Semi-Furnished,19.13373,72.86621,6.53,1.34,452.39
+Chennai,Anna Nagar,3,1405,3,13,2,Semi-Furnished,13.06495,80.21545,3.36,2.42,80.94
+Chennai,Velachery,2,1097,3,5,8,Semi-Furnished,12.98379,80.22763,6.34,1.62,48.72
+Delhi,Vasant Kunj,3,1634,7,31,3,Semi-Furnished,28.56661,77.24258,7.5,1.34,207.59
+Mumbai,Andheri West,2,1107,4,16,2,Unfurnished,19.00274,72.92329,9.45,0.33,204.63
+Kolkata,Salt Lake,2,864,2,11,8,Fully Furnished,22.56592,88.33321,3.24,2.74,36.91
+Mumbai,Andheri West,4,3669,0,43,1,Semi-Furnished,19.13291,73.00222,14.53,1.85,587.73
+Kolkata,Tollygunge,2,979,7,13,5,Semi-Furnished,22.62502,88.38341,6.16,0.61,38.29
+Bangalore,HSR Layout,1,454,12,37,8,Unfurnished,12.95147,77.69897,11.53,1.67,21.18
+Hyderabad,Gachibowli,2,1214,0,17,10,Semi-Furnished,17.58493,78.30003,17.1,0.37,38.03
+Mumbai,Worli,2,884,6,38,5,Semi-Furnished,19.12428,72.88209,5.39,1.63,178.59
+Chennai,Medavakkam,3,1997,11,12,2,Semi-Furnished,13.03198,80.20119,3.65,1.86,128.17
+Hyderabad,Kondapur,2,1053,3,11,0,Semi-Furnished,17.4688,78.35782,2.86,0.23,55.18
+Hyderabad,Gachibowli,1,575,10,14,1,Semi-Furnished,17.49292,78.36181,5.13,1.23,39.53
+Kolkata,Rajarhat,2,1009,9,13,15,Semi-Furnished,22.63775,88.34324,7.55,0.13,32.46
+Hyderabad,Kukatpally,3,2048,6,16,1,Fully Furnished,17.51014,78.43428,9.38,1.83,99.84
+Kolkata,Rajarhat,1,453,2,5,0,Semi-Furnished,22.5453,88.36894,3.08,3.23,20.6
+Hyderabad,Madhapur,3,1793,3,19,8,Unfurnished,17.56206,78.36665,12.67,0.88,75.48
+Bangalore,Indiranagar,2,1089,18,43,5,Semi-Furnished,13.01757,77.69021,11.55,2.5,60.06
+Bangalore,Electronic City,2,1094,0,4,20,Unfurnished,12.93578,77.54059,7.08,1.34,42.22
+Mumbai,Bandra West,3,1493,24,31,2,Semi-Furnished,19.09128,72.8794,1.71,0.18,480.58
+Chennai,Velachery,3,1854,2,4,5,Semi-Furnished,13.10792,80.26218,8.11,1.35,68.86
+Chennai,Medavakkam,4,3628,4,8,2,Fully Furnished,13.09219,80.2174,6.01,1.93,212.6
+Bangalore,Indiranagar,3,1758,29,31,3,Unfurnished,13.03013,77.69636,12.8,1.25,98.39
+Mumbai,Worli,2,809,1,6,0,Unfurnished,18.92153,72.85073,17.41,3.24,137.61
+Mumbai,Navi Mumbai,2,1308,12,24,8,Semi-Furnished,19.10079,72.82676,6.02,0.87,251.11
+Delhi,Greater Kailash,2,855,2,27,15,Fully Furnished,28.658,77.23129,3.34,0.57,69.56
+Kolkata,Tollygunge,2,912,7,16,8,Semi-Furnished,22.54083,88.36225,3.54,1.64,34.7
+Mumbai,Worli,2,1261,8,14,5,Unfurnished,19.06631,72.914,3.96,1.73,289.1
+Bangalore,HSR Layout,2,1015,5,40,8,Semi-Furnished,12.92727,77.63563,6.64,1.36,51.05
+Mumbai,Andheri West,2,850,3,4,20,Unfurnished,19.09538,72.80086,8.36,2.15,132.66
+Kolkata,Salt Lake,2,1254,6,11,2,Semi-Furnished,22.5198,88.35362,5.97,1.45,65.38
+Delhi,Vasant Kunj,3,1597,5,13,8,Fully Furnished,28.61238,77.24832,3.6,1.9,174.23
+Delhi,Saket,2,1313,2,8,5,Semi-Furnished,28.60239,77.12872,9.23,0.55,95.47
+Bangalore,Electronic City,2,1270,1,4,2,Semi-Furnished,12.93949,77.58,3.91,1.07,88.7
+Hyderabad,Jubilee Hills,1,710,5,18,8,Unfurnished,17.46996,78.43219,6.62,1.49,26.16
+Bangalore,Indiranagar,2,964,3,6,8,Semi-Furnished,12.8032,77.64484,19.5,2.03,30.51
+Hyderabad,Kondapur,3,1825,0,4,5,Semi-Furnished,17.49766,78.44756,9.53,2.1,77.25
+Hyderabad,Kukatpally,2,909,9,14,10,Semi-Furnished,17.56912,78.40784,13.9,1.81,30.51
+Bangalore,Kanakapura Road,2,1170,1,36,10,Semi-Furnished,13.10511,77.49407,18.41,0.99,39.75
+Delhi,Vasant Kunj,4,3119,1,27,1,Semi-Furnished,28.65717,77.16155,6.24,0.51,327.92
+Mumbai,Thane West,3,2036,4,38,2,Semi-Furnished,19.12016,72.89141,5.12,2.46,459.28
+Mumbai,Thane West,2,961,28,44,5,Semi-Furnished,19.01426,72.85778,7.18,0.79,206.77
+Chennai,OMR,2,827,1,9,3,Semi-Furnished,13.10298,80.25055,7.18,1.84,31.42
+Hyderabad,Madhapur,3,1537,0,3,2,Semi-Furnished,17.45994,78.43965,7.07,0.19,69.62
+Mumbai,Thane West,4,3719,9,31,3,Semi-Furnished,19.04641,72.86458,3.57,1.34,835.34
+Mumbai,Andheri West,2,1114,3,4,5,Fully Furnished,19.08853,72.86094,2.25,1.23,362.04
+Bangalore,Whitefield,3,1859,11,19,20,Unfurnished,13.00283,77.59594,3.48,0.78,93.83
+Delhi,Rohini,2,1319,4,14,2,Semi-Furnished,28.6195,77.2524,3.6,0.51,136.52
+Delhi,Dwarka,3,1753,3,17,2,Fully Furnished,28.60909,77.13972,7.97,2.94,162.21
+Mumbai,Worli,3,1876,23,29,15,Fully Furnished,18.96312,72.90983,13.0,1.39,384.52
+Delhi,Saket,2,822,2,16,3,Semi-Furnished,28.57151,77.28617,9.36,0.53,67.85
+Kolkata,New Town,3,1696,0,7,0,Unfurnished,22.50597,88.36028,7.42,2.71,63.46
+Hyderabad,Kukatpally,3,1669,2,11,3,Semi-Furnished,17.41408,78.30335,8.41,1.23,69.68
+Kolkata,New Town,2,830,2,10,2,Unfurnished,22.53404,88.29294,8.45,0.65,27.48
+Mumbai,Thane West,3,1898,3,14,3,Fully Furnished,19.1392,72.86808,7.1,1.37,513.21
+Kolkata,Tollygunge,3,1612,5,18,8,Semi-Furnished,22.67331,88.3894,11.5,0.1,46.57
+Delhi,Vasant Kunj,1,476,9,16,5,Semi-Furnished,28.63594,77.18168,3.57,2.3,45.88
+Hyderabad,Gachibowli,3,1557,4,5,10,Semi-Furnished,17.47552,78.32854,5.7,1.46,70.75
+Bangalore,Kanakapura Road,2,1106,10,41,1,Semi-Furnished,13.09342,77.54482,14.58,0.45,54.02
+Hyderabad,Gachibowli,3,2061,6,7,0,Semi-Furnished,17.49242,78.37781,4.92,1.44,119.58
+Kolkata,Howrah,4,4006,0,12,10,Unfurnished,22.63903,88.32245,8.52,0.36,91.22
+Mumbai,Worli,2,932,11,40,8,Unfurnished,19.02118,72.92666,7.98,1.69,132.16
+Mumbai,Bandra West,2,822,5,20,8,Semi-Furnished,19.16549,72.87822,9.95,1.06,151.99
+Bangalore,Whitefield,3,2020,11,14,15,Fully Furnished,12.98399,77.57205,2.81,1.81,109.9
+Chennai,Anna Nagar,2,1204,13,19,2,Semi-Furnished,13.12252,80.18644,10.46,2.36,51.35
+Chennai,Medavakkam,2,946,13,16,15,Fully Furnished,12.94853,80.10888,16.96,1.37,32.42
+Delhi,Greater Kailash,2,1020,9,30,1,Semi-Furnished,28.64679,77.15781,6.12,1.2,98.14
+Hyderabad,Madhapur,4,2572,16,19,0,Unfurnished,17.36741,78.37504,9.0,2.72,147.04
+Hyderabad,Jubilee Hills,2,1179,8,12,20,Semi-Furnished,17.45338,78.34778,2.85,0.25,52.46
+Hyderabad,Gachibowli,1,537,8,9,2,Fully Furnished,17.51792,78.39329,8.0,0.1,33.15
+Hyderabad,Jubilee Hills,4,3977,8,17,0,Semi-Furnished,17.39594,78.40298,6.58,0.66,247.74
+Chennai,Medavakkam,2,1234,1,13,2,Semi-Furnished,13.01495,80.13156,11.42,1.07,50.87
+Kolkata,New Town,4,2564,3,4,5,Semi-Furnished,22.64702,88.40836,9.45,1.48,84.27
+Kolkata,Howrah,1,687,5,13,2,Semi-Furnished,22.55561,88.37316,2.11,1.83,29.9
+Delhi,Saket,3,2036,12,27,10,Semi-Furnished,28.69473,77.27843,9.29,0.15,160.69
+Chennai,Adyar,2,1079,0,12,20,Unfurnished,13.05297,80.23321,1.39,0.64,46.05
+Bangalore,Kanakapura Road,2,1208,7,29,5,Semi-Furnished,12.98304,77.64678,5.8,1.23,52.0
+Kolkata,Rajarhat,2,1302,6,17,5,Unfurnished,22.52977,88.33442,5.64,0.17,48.25
+Mumbai,Worli,2,998,10,30,1,Unfurnished,19.03949,72.93735,7.47,1.51,232.46
+Bangalore,Whitefield,4,3236,0,19,3,Unfurnished,12.94361,77.54244,6.45,1.12,194.78
+Mumbai,Worli,2,859,3,5,5,Unfurnished,19.11083,72.84595,5.11,1.6,166.87
+Kolkata,Salt Lake,2,1006,10,12,5,Unfurnished,22.59233,88.34687,2.81,1.56,41.32
+Delhi,Rohini,2,938,21,34,0,Unfurnished,28.69024,77.18481,7.39,0.17,84.42
+Hyderabad,Kondapur,2,1087,0,15,20,Semi-Furnished,17.43961,78.37668,1.0,2.02,46.89
+Mumbai,Bandra West,1,696,3,4,8,Unfurnished,19.32319,72.88891,27.51,1.29,80.92
+Mumbai,Andheri West,2,1289,16,39,8,Unfurnished,18.89444,72.86933,20.21,0.48,184.96
+Delhi,Vasant Kunj,3,1961,23,41,20,Unfurnished,28.63217,77.2487,3.03,0.41,132.46
+Kolkata,New Town,2,887,9,17,8,Unfurnished,22.55446,88.38386,2.88,0.1,42.58
+Hyderabad,Gachibowli,2,980,12,19,1,Unfurnished,17.45007,78.30461,7.37,0.82,56.92
+Kolkata,Howrah,3,1514,2,3,10,Semi-Furnished,22.67308,88.39516,11.62,0.43,48.29
+Kolkata,Howrah,2,1260,9,10,2,Unfurnished,22.52397,88.36535,5.41,1.35,60.8
+Bangalore,HSR Layout,2,806,0,14,15,Unfurnished,12.96169,77.5356,6.49,2.67,39.27
+Kolkata,Howrah,2,1293,8,19,0,Semi-Furnished,22.48438,88.37554,9.88,1.45,53.98
+Kolkata,Howrah,2,858,0,14,10,Semi-Furnished,22.59052,88.31604,5.3,0.1,23.18
+Delhi,Vasant Kunj,2,1099,20,31,1,Semi-Furnished,28.64674,77.16376,5.57,0.14,117.44
+Mumbai,Thane West,2,983,2,4,5,Fully Furnished,18.99796,72.9056,9.16,0.98,188.05
+Mumbai,Andheri West,1,745,3,26,8,Unfurnished,18.9672,72.92681,13.15,1.59,144.59
+Chennai,OMR,2,1026,0,5,20,Semi-Furnished,13.03891,80.31521,8.83,0.98,31.97
+Kolkata,Rajarhat,3,1541,6,8,2,Semi-Furnished,22.57908,88.40014,3.79,1.27,67.53
+Kolkata,Rajarhat,2,1271,12,15,8,Semi-Furnished,22.47311,88.3369,11.41,1.05,36.56
+Chennai,Adyar,3,1726,0,9,10,Unfurnished,13.02875,80.19796,4.09,1.84,59.26
+Hyderabad,Madhapur,3,1520,0,3,1,Unfurnished,17.45808,78.31035,6.85,1.11,80.77
+Chennai,OMR,3,1461,9,11,5,Semi-Furnished,13.07071,80.1541,9.25,1.84,71.9
+Kolkata,Howrah,3,1880,10,17,3,Semi-Furnished,22.60916,88.3448,4.51,0.11,77.17
+Chennai,Anna Nagar,3,1920,9,11,20,Semi-Furnished,13.07486,80.21848,4.16,0.85,90.14
+Mumbai,Thane West,3,1786,4,20,3,Unfurnished,19.08958,72.84082,4.16,2.13,408.58
+Chennai,Anna Nagar,2,1271,10,14,15,Unfurnished,13.04444,80.22234,1.31,0.14,51.83
+Kolkata,Tollygunge,1,418,2,6,15,Semi-Furnished,22.57936,88.38386,2.18,0.37,17.1
+Bangalore,HSR Layout,3,2060,1,11,10,Semi-Furnished,13.0378,77.6774,11.6,1.12,114.21
+Hyderabad,Gachibowli,3,1842,6,7,8,Unfurnished,17.45496,78.3824,1.15,0.15,89.59
+Chennai,Velachery,4,3092,4,9,1,Fully Furnished,12.98923,80.25607,6.19,0.1,205.07
+Kolkata,Salt Lake,1,428,7,10,5,Unfurnished,22.6296,88.33042,7.21,1.15,15.96
+Bangalore,Whitefield,2,1239,16,39,5,Fully Furnished,12.96129,77.66207,7.4,1.4,89.6
+Chennai,Adyar,1,493,3,19,3,Semi-Furnished,13.08775,80.23917,5.29,0.25,23.47
+Delhi,Rohini,3,1570,14,16,3,Semi-Furnished,28.66572,77.2614,5.8,1.86,180.6
+Chennai,Medavakkam,2,1061,12,17,8,Semi-Furnished,13.0836,80.17996,7.54,1.8,51.23
+Kolkata,Salt Lake,4,3643,2,10,0,Semi-Furnished,22.64952,88.38312,8.78,3.06,150.12
+Bangalore,Indiranagar,2,1285,3,6,5,Unfurnished,13.00895,77.71226,13.41,0.68,59.55
+Bangalore,Indiranagar,3,1563,18,42,5,Semi-Furnished,13.03489,77.52409,10.39,2.65,92.37
+Bangalore,Whitefield,1,605,5,26,15,Semi-Furnished,12.85272,77.56073,13.72,0.7,24.21
+Chennai,Adyar,2,818,18,19,5,Semi-Furnished,13.07781,80.23837,4.18,1.11,41.72
+Hyderabad,Kukatpally,1,745,7,10,5,Unfurnished,17.49852,78.35286,6.02,1.77,47.27
+Delhi,Vasant Kunj,2,1249,8,15,10,Fully Furnished,28.66245,77.1741,5.55,2.03,109.41
+Kolkata,Rajarhat,2,973,15,17,0,Semi-Furnished,22.6002,88.35014,3.38,1.11,48.1
+Hyderabad,Jubilee Hills,3,1928,0,3,2,Semi-Furnished,17.53666,78.38264,9.87,1.55,101.28
+Delhi,Vasant Kunj,3,2074,6,43,3,Semi-Furnished,28.67393,77.2114,4.88,0.1,233.91
+Kolkata,Howrah,1,656,2,11,1,Fully Furnished,22.49903,88.337,8.63,1.29,30.75
+Mumbai,Thane West,2,1280,1,34,15,Fully Furnished,19.13397,72.89564,6.72,1.07,233.53
+Bangalore,Electronic City,2,1044,17,23,10,Unfurnished,12.95339,77.50354,10.07,0.1,40.5
+Chennai,Velachery,2,885,2,15,1,Semi-Furnished,12.99396,80.2948,8.4,1.36,47.79
+Chennai,Adyar,3,2057,4,13,3,Semi-Furnished,13.09465,80.19064,7.62,0.66,110.21
+Chennai,Velachery,3,1902,3,18,3,Semi-Furnished,13.01289,80.18981,5.66,3.03,118.07
+Delhi,Vasant Kunj,1,615,26,44,10,Semi-Furnished,28.60017,77.25134,4.7,0.1,54.72
+Kolkata,Salt Lake,3,1780,2,3,8,Semi-Furnished,22.57019,88.37312,0.98,0.19,61.5
+Hyderabad,Gachibowli,4,2799,0,17,8,Semi-Furnished,17.50206,78.3382,7.09,2.16,143.04
+Mumbai,Navi Mumbai,2,1228,19,35,2,Semi-Furnished,19.05868,72.84013,4.39,2.27,355.8
+Bangalore,Whitefield,1,644,5,18,3,Unfurnished,12.92926,77.62945,6.04,1.63,40.37
+Chennai,Medavakkam,4,3942,16,19,3,Unfurnished,12.92906,80.2176,12.51,1.81,169.79
+Kolkata,Tollygunge,3,1710,6,8,15,Fully Furnished,22.51124,88.41593,8.67,2.01,63.6
+Kolkata,Salt Lake,1,598,2,7,0,Unfurnished,22.4952,88.38632,8.91,1.91,25.94
+Bangalore,Indiranagar,1,662,2,32,8,Unfurnished,13.02834,77.65765,9.3,0.47,34.16
+Hyderabad,Kondapur,2,860,10,14,2,Unfurnished,17.47863,78.40027,4.37,0.25,51.31
+Delhi,Vasant Kunj,2,995,12,14,20,Unfurnished,28.69229,77.15512,9.2,0.48,72.09
+Hyderabad,Madhapur,2,887,2,6,5,Semi-Furnished,17.42375,78.38373,2.91,1.93,51.58
+Delhi,Saket,3,1633,36,37,0,Semi-Furnished,28.7044,77.21724,8.23,0.89,208.96
+Kolkata,Salt Lake,2,1265,1,8,5,Unfurnished,22.63472,88.34331,7.22,0.62,49.47
+Mumbai,Bandra West,1,670,3,4,8,Semi-Furnished,19.09798,72.8598,3.08,0.7,165.52
+Bangalore,Whitefield,3,1411,0,8,2,Fully Furnished,13.0552,77.64116,10.58,0.32,80.87
+Hyderabad,Madhapur,2,974,2,4,3,Semi-Furnished,17.4475,78.35354,2.18,0.72,43.28
+Chennai,Velachery,2,841,0,6,8,Semi-Furnished,12.94154,80.22777,11.02,0.91,31.14
+Mumbai,Bandra West,2,876,2,32,0,Unfurnished,19.2439,72.82228,19.56,1.22,137.67
+Kolkata,Rajarhat,2,1131,1,6,5,Semi-Furnished,22.54684,88.35884,2.91,1.55,55.23
+Delhi,Vasant Kunj,1,509,15,19,2,Semi-Furnished,28.53499,77.17782,11.3,0.48,49.78
+Bangalore,Whitefield,1,522,3,8,8,Unfurnished,13.02323,77.54519,7.85,1.49,26.12
+Hyderabad,Jubilee Hills,4,3885,5,12,5,Semi-Furnished,17.50703,78.3591,6.72,0.21,159.82
+Kolkata,Salt Lake,4,3030,2,18,8,Semi-Furnished,22.50732,88.3368,7.77,0.36,114.23
+Bangalore,Indiranagar,4,3449,7,29,2,Semi-Furnished,13.09761,77.58972,14.02,2.43,195.34
+Mumbai,Andheri West,2,1290,0,9,8,Unfurnished,19.01472,72.85925,7.09,0.6,253.99
+Delhi,Dwarka,2,1215,4,21,3,Semi-Furnished,28.5885,77.22515,4.72,0.9,104.51
+Kolkata,Rajarhat,1,718,14,18,2,Semi-Furnished,22.6257,88.36023,5.92,0.57,36.34
+Delhi,Rohini,2,1164,5,18,0,Semi-Furnished,28.61334,77.2629,4.8,0.45,135.18
+Mumbai,Navi Mumbai,2,1108,17,20,8,Unfurnished,19.15264,72.90424,8.97,0.38,224.88
+Chennai,Medavakkam,2,1092,7,18,1,Unfurnished,13.08042,80.24072,4.5,0.19,69.57
+Chennai,Adyar,3,1575,0,7,8,Semi-Furnished,13.03881,80.23021,0.42,2.52,100.32
+Kolkata,Salt Lake,1,601,0,4,2,Unfurnished,22.58832,88.3964,3.77,1.45,21.69
+Bangalore,Electronic City,3,2036,3,13,8,Unfurnished,12.94785,77.59171,2.66,1.22,108.12
+Chennai,Medavakkam,3,1539,4,17,0,Unfurnished,12.9917,80.26019,6.14,1.19,73.2
+Kolkata,Salt Lake,2,1214,10,14,1,Unfurnished,22.59758,88.41429,5.87,1.06,53.92
+Mumbai,Navi Mumbai,1,738,4,9,10,Semi-Furnished,19.17271,72.91854,11.58,1.91,126.04
+Delhi,Rohini,2,1258,15,30,3,Fully Furnished,28.69392,77.12082,11.8,0.25,129.12
+Kolkata,Tollygunge,3,1817,2,8,2,Semi-Furnished,22.62473,88.38243,6.1,0.1,75.33
+Kolkata,Salt Lake,2,823,3,4,3,Semi-Furnished,22.55434,88.34377,2.9,2.04,23.69
+Kolkata,Salt Lake,2,1107,1,4,2,Semi-Furnished,22.6177,88.42729,8.22,0.34,53.83
+Bangalore,Electronic City,2,1271,12,31,5,Unfurnished,13.03548,77.62412,7.79,1.15,55.93
+Chennai,Adyar,3,1770,4,18,3,Fully Furnished,13.07459,80.2722,5.64,0.22,131.18
+Chennai,Medavakkam,2,1299,2,14,3,Unfurnished,13.0283,80.27871,5.06,0.5,65.82
+Hyderabad,Madhapur,2,1007,5,17,1,Semi-Furnished,17.40706,78.45741,9.96,3.0,46.29
+Bangalore,Indiranagar,4,3383,26,39,8,Unfurnished,12.97014,77.47254,13.23,0.16,154.65
+Bangalore,Kanakapura Road,1,747,0,11,8,Semi-Furnished,12.88465,77.57186,9.98,1.7,44.49
+Mumbai,Worli,2,1256,7,19,8,Semi-Furnished,19.09374,72.89299,2.54,1.56,282.73
+Mumbai,Worli,4,2508,3,15,1,Fully Furnished,19.14514,72.7694,13.73,0.62,475.47
+Chennai,OMR,2,1102,4,6,0,Unfurnished,13.02912,80.13524,10.74,1.05,41.74
+Chennai,Velachery,2,963,1,3,20,Semi-Furnished,13.02474,80.24442,2.1,1.77,39.0
+Mumbai,Andheri West,3,1706,18,20,8,Semi-Furnished,18.98706,72.83904,10.69,1.82,339.61
+Delhi,Rohini,1,456,13,15,8,Semi-Furnished,28.52699,77.21044,11.52,0.38,34.4
+Delhi,Saket,1,403,27,40,1,Fully Furnished,28.72535,77.13334,13.39,0.1,33.12
+Hyderabad,Kondapur,3,1885,13,17,10,Unfurnished,17.4824,78.43928,7.89,1.47,58.29
+Chennai,Medavakkam,2,1076,4,11,3,Fully Furnished,12.94186,80.26838,11.59,0.4,47.26
+Mumbai,Thane West,2,1059,3,33,1,Unfurnished,19.06646,72.91449,4.01,0.63,204.57
+Delhi,Rohini,2,1252,30,39,3,Semi-Furnished,28.57262,77.17581,7.62,0.82,117.48
+Delhi,Dwarka,3,1414,10,34,5,Semi-Furnished,28.68489,77.24449,6.6,1.2,135.01
+Kolkata,Rajarhat,3,2092,8,17,3,Unfurnished,22.60853,88.38094,4.36,1.07,74.23
+Mumbai,Navi Mumbai,2,1113,3,4,1,Semi-Furnished,19.05867,72.91079,3.98,2.98,278.24
+Bangalore,Electronic City,1,433,0,25,5,Fully Furnished,12.93134,77.67269,9.57,0.83,20.95
+Bangalore,Indiranagar,2,1193,3,35,2,Semi-Furnished,13.04241,77.59549,7.87,0.17,56.97
+Delhi,Rohini,4,3224,1,17,3,Semi-Furnished,28.57578,77.25941,7.31,0.9,251.49
+Hyderabad,Kondapur,2,908,3,12,5,Unfurnished,17.47601,78.37323,3.08,1.13,48.16
+Delhi,Vasant Kunj,3,2067,18,31,2,Unfurnished,28.68004,77.20528,5.65,0.99,233.79
+Chennai,OMR,2,1095,8,19,10,Semi-Furnished,13.01063,80.22693,3.4,1.07,59.44
+Mumbai,Andheri West,2,964,34,37,15,Semi-Furnished,18.98932,72.90414,10.03,1.28,230.45
+Mumbai,Thane West,3,1564,2,15,3,Unfurnished,19.16847,72.91978,11.19,1.31,289.14
+Delhi,Greater Kailash,2,999,4,11,2,Unfurnished,28.63321,77.30158,8.19,1.02,77.2
+Kolkata,New Town,3,1859,5,7,8,Semi-Furnished,22.513,88.36454,6.63,1.38,60.3
+Kolkata,New Town,2,1208,5,13,0,Unfurnished,22.6511,88.34204,9.01,1.32,43.87
+Chennai,Velachery,2,1012,4,8,2,Unfurnished,13.03883,80.28212,5.25,1.23,46.18
+Kolkata,Tollygunge,2,1021,6,10,3,Semi-Furnished,22.55107,88.39615,4.09,1.84,52.99
+Chennai,Adyar,3,1660,1,18,5,Semi-Furnished,13.04104,80.25534,2.34,0.1,103.08
+Delhi,Rohini,3,1631,21,23,2,Semi-Furnished,28.57543,77.19264,6.58,2.47,178.97
+Delhi,Greater Kailash,3,1598,20,23,8,Semi-Furnished,28.69674,77.19889,7.6,2.23,124.99
+Bangalore,Kanakapura Road,3,1469,7,9,2,Semi-Furnished,12.94586,77.64378,6.05,0.13,101.66
+Hyderabad,Kukatpally,1,673,3,4,1,Unfurnished,17.60831,78.37993,17.8,2.09,24.66
+Delhi,Saket,4,3255,6,11,3,Semi-Furnished,28.60162,77.21588,3.21,1.05,430.85
+Kolkata,Rajarhat,2,845,4,5,2,Unfurnished,22.5367,88.43227,8.08,2.75,33.68
+Bangalore,Electronic City,1,714,5,41,8,Semi-Furnished,13.00026,77.56476,4.54,1.28,46.44
+Hyderabad,Kondapur,2,1343,2,3,5,Semi-Furnished,17.49541,78.27764,11.49,0.67,57.23
+Delhi,Rohini,2,1233,37,44,20,Semi-Furnished,28.72687,77.29891,13.34,2.28,96.52
+Kolkata,New Town,1,653,8,14,0,Semi-Furnished,22.6848,88.25486,16.76,1.03,23.62
+Mumbai,Worli,2,886,3,16,8,Unfurnished,19.16481,72.88952,9.95,0.56,150.69
+Kolkata,New Town,3,1439,3,6,1,Semi-Furnished,22.58144,88.34733,1.97,2.25,61.31
+Chennai,Adyar,3,1750,2,4,8,Fully Furnished,13.04212,80.24477,1.21,0.64,86.31
+Delhi,Saket,2,1247,10,12,0,Semi-Furnished,28.6934,77.23718,7.26,1.31,100.2
+Chennai,Velachery,2,1295,1,3,0,Semi-Furnished,13.00493,80.23838,3.99,1.39,63.21
+Mumbai,Thane West,2,876,9,19,5,Unfurnished,18.96623,72.9249,13.18,1.79,174.54
+Hyderabad,Kukatpally,4,3017,3,6,2,Semi-Furnished,17.26867,78.42877,20.8,2.31,115.32
+Chennai,Medavakkam,4,2596,0,8,5,Semi-Furnished,13.0108,80.237,3.32,1.87,142.01
+Mumbai,Worli,1,560,0,9,5,Unfurnished,19.0058,72.82142,9.79,1.02,101.14
+Delhi,Vasant Kunj,3,1875,5,7,3,Unfurnished,28.5143,77.20874,12.94,0.69,144.34
+Delhi,Greater Kailash,3,1930,12,20,5,Fully Furnished,28.62013,77.29254,7.39,0.75,217.17
+Kolkata,Howrah,4,3929,1,6,5,Semi-Furnished,22.6619,88.32773,10.6,3.68,103.56
+Bangalore,Electronic City,3,1567,2,26,15,Fully Furnished,13.01306,77.60155,4.67,0.89,97.65
+Hyderabad,Kondapur,2,1246,1,9,8,Semi-Furnished,17.46688,78.40265,3.67,1.67,43.53
+Mumbai,Andheri West,3,1757,0,8,3,Fully Furnished,18.91323,72.8632,18.16,0.58,356.99
+Bangalore,Kanakapura Road,2,923,19,28,2,Unfurnished,12.97005,77.53989,5.93,1.3,71.78
+Kolkata,Tollygunge,3,1981,3,4,1,Semi-Furnished,22.54068,88.40634,5.62,0.64,86.53
+Chennai,Velachery,3,1646,2,14,5,Semi-Furnished,13.08694,80.25878,5.83,2.02,99.45
+Delhi,Rohini,2,1168,16,23,2,Semi-Furnished,28.64937,77.25172,3.93,2.57,142.52
+Kolkata,Tollygunge,2,1211,9,10,1,Fully Furnished,22.6716,88.38959,11.32,1.03,36.99
+Delhi,Rohini,3,2006,19,37,3,Unfurnished,28.58641,77.21852,4.89,1.57,220.13
+Bangalore,Kanakapura Road,4,2460,13,17,3,Fully Furnished,12.89419,77.54048,10.42,0.43,160.52
+Chennai,OMR,3,1506,0,13,2,Unfurnished,12.99631,80.21914,5.16,0.85,59.13
+Delhi,Vasant Kunj,4,4132,1,20,3,Fully Furnished,28.62975,77.21312,0.45,0.45,525.44
+Chennai,Medavakkam,2,888,2,8,10,Semi-Furnished,13.03472,80.28447,5.54,2.15,40.54
+Bangalore,Whitefield,2,942,5,6,15,Semi-Furnished,13.11896,77.50991,18.78,1.8,31.02
+Kolkata,Howrah,2,1196,11,15,0,Semi-Furnished,22.48939,88.39923,9.94,0.1,45.1
+Mumbai,Navi Mumbai,2,810,3,6,15,Semi-Furnished,19.05534,72.91245,4.31,1.06,186.2
+Delhi,Vasant Kunj,2,1179,13,21,2,Semi-Furnished,28.61658,77.15736,6.09,0.29,122.39
+Bangalore,HSR Layout,3,1878,18,41,20,Unfurnished,12.95122,77.62166,3.71,1.68,99.26
+Hyderabad,Jubilee Hills,2,1058,4,18,15,Semi-Furnished,17.38826,78.34248,7.47,1.78,46.97
+Delhi,Saket,3,1790,16,39,0,Unfurnished,28.56332,77.31005,11.7,0.46,178.29
+Chennai,Anna Nagar,4,3975,1,6,5,Semi-Furnished,13.06181,80.27416,4.98,0.64,251.2
+Delhi,Dwarka,2,1301,7,11,8,Unfurnished,28.61412,77.18986,3.27,2.17,122.23
+Delhi,Saket,3,1928,0,4,15,Semi-Furnished,28.53991,77.1775,10.8,2.25,115.1
+Bangalore,Whitefield,4,4164,2,21,1,Fully Furnished,12.91025,77.64222,8.55,1.42,306.11
+Kolkata,Salt Lake,2,1221,4,7,8,Unfurnished,22.60239,88.40162,5.1,0.93,51.81
+Kolkata,New Town,3,1826,10,18,5,Fully Furnished,22.59612,88.44279,8.51,1.57,84.77
+Mumbai,Navi Mumbai,2,850,20,31,8,Semi-Furnished,19.05099,72.84586,4.35,1.0,209.81
+Hyderabad,Kondapur,3,1424,1,17,10,Semi-Furnished,17.36983,78.35339,9.0,1.24,47.07
+Hyderabad,Kondapur,1,732,3,15,0,Unfurnished,17.446,78.46599,9.75,2.75,37.55
+Mumbai,Andheri West,3,1470,30,40,2,Semi-Furnished,19.05393,72.80948,7.58,1.71,368.81
+Kolkata,Rajarhat,3,1915,9,19,0,Unfurnished,22.55118,88.36348,2.38,0.29,99.43
+Mumbai,Navi Mumbai,1,742,2,10,8,Unfurnished,18.9777,72.87891,10.93,2.13,136.87
+Kolkata,Howrah,1,711,1,18,2,Fully Furnished,22.68303,88.41614,13.4,1.65,26.27
+Bangalore,Whitefield,3,1965,1,9,8,Unfurnished,12.89768,77.5211,11.45,0.47,95.36
+Kolkata,Tollygunge,1,443,9,18,3,Fully Furnished,22.51355,88.31783,8.09,2.89,17.88
+Mumbai,Andheri West,2,1273,15,26,3,Semi-Furnished,19.18524,72.87544,12.15,1.22,281.41
+Kolkata,Rajarhat,2,1029,9,15,1,Unfurnished,22.65913,88.40856,10.66,0.62,35.76
+Delhi,Dwarka,3,1562,4,9,5,Unfurnished,28.76663,77.22093,15.15,2.04,91.79
+Bangalore,Kanakapura Road,3,1993,12,34,1,Semi-Furnished,13.01568,77.59905,4.92,1.28,126.58
+Mumbai,Andheri West,2,1321,11,16,20,Semi-Furnished,18.9685,72.91186,12.48,0.64,169.56
+Kolkata,Howrah,2,1003,2,3,5,Semi-Furnished,22.63926,88.33077,8.16,0.62,33.21
+Mumbai,Worli,1,563,6,8,3,Semi-Furnished,18.97316,72.8256,12.68,0.44,98.19
+Hyderabad,Kukatpally,1,545,4,12,8,Fully Furnished,17.47446,78.36261,3.15,1.78,28.12
+Hyderabad,Gachibowli,3,2060,0,6,10,Semi-Furnished,17.5242,78.4324,10.46,1.18,80.82
+Bangalore,Electronic City,2,1071,20,38,3,Semi-Furnished,13.0649,77.52997,12.52,0.82,53.34
+Bangalore,Kanakapura Road,2,1301,1,13,1,Semi-Furnished,12.97294,77.54093,5.82,2.44,78.59
+Mumbai,Navi Mumbai,2,1085,3,12,8,Unfurnished,18.90377,72.87647,19.15,0.75,120.24
+Delhi,Rohini,2,807,6,27,3,Unfurnished,28.56805,77.26678,8.43,1.52,71.71
+Bangalore,Whitefield,3,1815,1,40,1,Semi-Furnished,13.03821,77.47606,14.83,0.33,82.6
+Delhi,Vasant Kunj,3,1825,1,13,1,Semi-Furnished,28.60788,77.21477,2.52,1.39,112.04
+Chennai,Adyar,2,1020,4,12,15,Semi-Furnished,13.00833,80.19747,5.31,0.8,39.22
+Chennai,Anna Nagar,4,3674,7,11,2,Semi-Furnished,13.05283,80.28567,5.79,0.51,171.72
+Chennai,Anna Nagar,2,1269,1,6,15,Unfurnished,13.02884,80.29273,6.52,0.5,56.46
+Hyderabad,Kondapur,2,1196,14,16,3,Semi-Furnished,17.46143,78.45193,8.38,0.21,58.76
+Mumbai,Worli,2,1196,3,7,1,Semi-Furnished,19.16368,72.84801,10.24,1.31,239.59
+Mumbai,Navi Mumbai,2,1175,8,21,5,Semi-Furnished,19.03017,72.92237,6.93,0.44,236.04
+Delhi,Rohini,2,805,12,17,3,Semi-Furnished,28.58832,77.16515,6.94,1.63,71.73
+Chennai,Medavakkam,4,3823,2,13,10,Semi-Furnished,13.1454,80.29468,13.4,1.1,118.43
+Chennai,Adyar,3,1614,3,8,3,Semi-Furnished,13.15874,80.2415,13.17,2.31,60.19
+Chennai,OMR,2,1133,2,14,2,Unfurnished,13.03073,80.25555,2.6,1.18,53.37
+Delhi,Dwarka,1,408,4,9,20,Unfurnished,28.6756,77.22573,5.09,1.66,23.83
+Delhi,Dwarka,2,946,8,40,8,Fully Furnished,28.70734,77.39608,19.39,0.48,65.13
+Hyderabad,Kondapur,3,1819,8,15,5,Semi-Furnished,17.43168,78.37933,1.93,1.58,126.24
+Mumbai,Thane West,3,1462,9,28,2,Unfurnished,19.04535,72.85648,4.07,0.32,335.13
+Chennai,Anna Nagar,1,456,8,14,3,Semi-Furnished,13.081,80.20471,5.49,1.24,24.17
+Hyderabad,Jubilee Hills,3,1645,8,14,8,Semi-Furnished,17.4466,78.28881,9.05,1.1,87.65
+Hyderabad,Gachibowli,3,1677,13,17,2,Semi-Furnished,17.43087,78.40075,3.43,1.85,108.95
+Hyderabad,Madhapur,2,880,6,14,10,Fully Furnished,17.46121,78.33049,4.84,1.25,55.28
+Chennai,OMR,2,1304,4,11,3,Unfurnished,13.07813,80.2352,4.19,1.69,73.6
+Chennai,Medavakkam,2,1329,0,13,8,Semi-Furnished,13.0718,80.3003,8.01,0.77,51.96
+Delhi,Rohini,2,940,13,15,20,Semi-Furnished,28.63746,77.22678,1.18,0.74,72.43
+Delhi,Greater Kailash,1,620,2,35,10,Unfurnished,28.68653,77.2482,6.91,0.39,47.14
+Kolkata,Tollygunge,2,1072,5,16,15,Semi-Furnished,22.59073,88.34266,2.97,0.25,38.5
+Delhi,Rohini,3,2079,0,37,10,Fully Furnished,28.76459,77.23914,15.07,1.55,127.76
+Hyderabad,Gachibowli,1,527,12,18,8,Unfurnished,17.52576,78.34336,9.21,0.62,23.6
+Hyderabad,Jubilee Hills,2,1134,14,17,3,Semi-Furnished,17.3844,78.3614,7.23,1.15,66.91
+Hyderabad,Kukatpally,3,1844,3,8,5,Semi-Furnished,17.48323,78.41021,5.46,1.62,98.65
+Delhi,Rohini,2,874,3,10,3,Semi-Furnished,28.70384,77.23272,8.3,1.22,78.55
+Kolkata,Salt Lake,2,1222,13,17,8,Semi-Furnished,22.60183,88.35317,3.43,1.33,58.23
+Mumbai,Worli,2,841,39,40,8,Semi-Furnished,19.1488,72.87636,8.1,1.01,199.57
+Delhi,Rohini,4,4146,0,7,15,Semi-Furnished,28.69716,77.21343,7.43,1.27,298.19
+Kolkata,Salt Lake,1,686,6,10,15,Unfurnished,22.55414,88.35429,2.28,0.6,22.01
+Delhi,Vasant Kunj,2,1160,1,30,15,Semi-Furnished,28.66569,77.1195,10.35,0.68,71.41
+Hyderabad,Kukatpally,3,2008,2,3,2,Semi-Furnished,17.47783,78.39584,4.01,1.38,112.37
+Bangalore,Indiranagar,1,438,3,27,3,Semi-Furnished,12.95937,77.68981,10.41,1.05,25.68
+Kolkata,New Town,4,3612,3,15,5,Fully Furnished,22.5004,88.38169,8.23,1.53,135.11
+Bangalore,Kanakapura Road,3,1709,26,37,5,Unfurnished,12.95394,77.54981,5.24,1.25,94.59
+Delhi,Saket,1,715,16,17,3,Semi-Furnished,28.62793,77.34725,12.65,1.27,57.79
+Mumbai,Thane West,2,1082,16,39,5,Semi-Furnished,19.04362,72.92301,5.97,2.48,272.6
+Chennai,Velachery,2,947,1,3,2,Unfurnished,13.00406,80.19984,5.47,0.41,46.65
+Bangalore,Whitefield,1,694,13,16,3,Semi-Furnished,13.05439,77.65123,11.06,2.06,44.26
+Kolkata,Rajarhat,3,1982,3,14,5,Semi-Furnished,22.56351,88.35835,1.16,0.38,88.1
+Kolkata,New Town,2,935,4,6,15,Unfurnished,22.56398,88.39249,3.09,2.22,33.52
+Kolkata,Tollygunge,2,827,3,5,10,Semi-Furnished,22.50053,88.34625,8.22,1.45,26.78
+Bangalore,Indiranagar,1,576,2,5,2,Semi-Furnished,12.84476,77.52805,15.84,1.31,25.63
+Kolkata,Salt Lake,1,577,6,18,5,Unfurnished,22.55698,88.44114,8.12,0.24,15.51
+Kolkata,Tollygunge,1,446,0,18,0,Fully Furnished,22.56955,88.36668,0.44,1.47,22.4
+Chennai,Adyar,3,1900,3,5,10,Semi-Furnished,13.00457,80.25899,4.84,1.3,70.16
+Hyderabad,Gachibowli,3,1630,7,17,15,Fully Furnished,17.43819,78.47954,11.24,2.15,69.9
+Kolkata,Howrah,3,1560,7,15,0,Semi-Furnished,22.52046,88.405,7.17,0.44,58.91
+Mumbai,Andheri West,3,1507,5,38,20,Unfurnished,18.95943,72.81784,14.41,2.61,210.56
+Chennai,OMR,2,1080,2,6,2,Fully Furnished,13.05815,80.16465,7.73,1.1,48.68
+Hyderabad,Kondapur,3,1412,10,16,2,Unfurnished,17.47959,78.36106,3.74,0.27,86.33
+Chennai,Velachery,3,2050,2,12,20,Unfurnished,12.9207,80.20654,13.64,0.82,43.94
+Bangalore,HSR Layout,2,1104,16,18,8,Semi-Furnished,12.94016,77.66899,8.79,0.34,49.71
+Mumbai,Andheri West,3,1422,12,14,5,Semi-Furnished,19.08551,72.89061,1.72,1.34,349.21
+Chennai,Adyar,3,1800,1,8,2,Semi-Furnished,13.01925,80.22843,2.43,1.04,102.75
+Delhi,Vasant Kunj,2,1310,42,43,3,Semi-Furnished,28.56832,77.3269,12.7,1.62,120.3
+Chennai,Velachery,2,848,7,15,2,Unfurnished,13.01608,80.17165,7.25,1.57,31.5
+Hyderabad,Gachibowli,2,933,8,11,8,Fully Furnished,17.40534,78.43062,7.67,2.4,46.99
+Delhi,Saket,1,686,24,43,3,Unfurnished,28.79123,77.19224,18.06,0.67,50.53
+Kolkata,New Town,3,1821,3,16,5,Semi-Furnished,22.61641,88.37623,5.03,2.13,69.65
+Hyderabad,Gachibowli,2,1070,1,6,8,Unfurnished,17.46344,78.31308,6.69,0.8,48.43
+Bangalore,Electronic City,2,1332,8,42,10,Semi-Furnished,12.94135,77.53785,7.01,0.1,75.17
+Hyderabad,Madhapur,3,1568,3,8,5,Semi-Furnished,17.36261,78.2623,15.22,0.1,65.84
+Mumbai,Bandra West,2,822,19,42,15,Unfurnished,19.03213,72.88095,4.89,1.39,156.19
+Hyderabad,Madhapur,3,1939,2,8,5,Semi-Furnished,17.43906,78.32686,5.12,0.14,103.0
+Mumbai,Navi Mumbai,2,842,13,19,3,Fully Furnished,19.04631,72.91937,5.48,1.71,224.57
+Kolkata,Salt Lake,2,1029,8,9,8,Semi-Furnished,22.49731,88.41145,9.69,0.82,31.01
+Mumbai,Bandra West,3,1508,5,32,0,Semi-Furnished,19.04799,72.90855,4.5,0.39,336.18
+Chennai,Medavakkam,2,872,0,10,1,Unfurnished,13.04126,80.21911,1.58,1.47,49.1
+Kolkata,New Town,3,1701,18,19,3,Semi-Furnished,22.55644,88.37465,2.11,0.79,100.24
+Bangalore,Whitefield,3,2068,9,11,10,Semi-Furnished,12.91682,77.58341,6.21,0.51,117.51
+Delhi,Saket,1,611,21,37,2,Unfurnished,28.72499,77.26261,11.39,1.27,40.75
+Mumbai,Thane West,1,456,16,19,2,Semi-Furnished,19.01845,72.87979,6.4,1.82,122.84
+Mumbai,Andheri West,2,808,5,9,0,Unfurnished,19.20934,72.88999,14.88,1.44,167.96
+Kolkata,New Town,3,1589,3,7,1,Semi-Furnished,22.57902,88.34025,2.53,0.27,65.71
+Hyderabad,Gachibowli,3,1784,6,15,3,Semi-Furnished,17.51655,78.29703,11.15,1.12,104.78
+Kolkata,Salt Lake,3,1755,2,10,1,Fully Furnished,22.52414,88.36487,5.39,0.86,92.76
+Kolkata,Howrah,4,3211,1,4,10,Unfurnished,22.56184,88.40964,4.85,1.32,121.69
+Hyderabad,Jubilee Hills,2,845,8,10,0,Semi-Furnished,17.42171,78.41859,5.57,0.84,39.97
+Chennai,OMR,2,1349,2,7,5,Semi-Furnished,13.06151,80.22146,2.69,3.39,64.64
+Chennai,Adyar,2,1085,0,11,15,Semi-Furnished,13.0011,80.24215,4.48,0.1,44.94
+Delhi,Vasant Kunj,3,1733,27,40,5,Fully Furnished,28.67501,77.23667,5.29,1.34,211.58
+Hyderabad,Madhapur,1,744,6,17,8,Semi-Furnished,17.43458,78.37403,1.53,1.34,37.13
+Kolkata,Tollygunge,2,973,5,11,8,Semi-Furnished,22.50377,88.432,10.37,2.06,27.69
+Bangalore,Whitefield,2,1312,14,40,5,Semi-Furnished,13.01894,77.59196,5.27,1.39,94.77
+Delhi,Saket,3,1416,7,13,0,Semi-Furnished,28.62161,77.27808,5.97,0.35,151.61
+Mumbai,Worli,3,1480,5,10,3,Fully Furnished,19.11183,72.89069,4.21,0.24,422.27
+Kolkata,Rajarhat,2,1141,1,12,15,Unfurnished,22.50561,88.34193,7.78,0.83,36.81
+Chennai,Medavakkam,1,623,0,5,2,Unfurnished,13.12858,80.22685,9.82,0.28,25.02
+Kolkata,Howrah,3,1765,5,11,1,Fully Furnished,22.67466,88.38307,11.52,1.31,63.84
+Kolkata,Rajarhat,2,881,0,4,3,Semi-Furnished,22.51754,88.39319,6.82,2.01,34.38
+Mumbai,Thane West,2,943,15,16,8,Unfurnished,19.11089,72.90166,4.63,0.1,238.6
+Mumbai,Navi Mumbai,2,1139,9,25,5,Semi-Furnished,19.09429,72.85311,3.29,1.25,235.47
+Chennai,Velachery,3,1836,0,9,5,Semi-Furnished,13.03992,80.16055,7.92,0.5,91.46
+Delhi,Saket,2,1039,3,9,8,Unfurnished,28.59487,77.32396,11.1,0.71,69.05
+Delhi,Rohini,4,2658,9,24,2,Semi-Furnished,28.71456,77.14849,11.54,0.17,246.19
+Chennai,Medavakkam,3,2040,4,16,0,Semi-Furnished,13.01575,80.19306,5.19,0.2,96.42
+Kolkata,Salt Lake,4,2878,1,5,8,Semi-Furnished,22.54682,88.37137,2.97,0.79,103.87
+Mumbai,Worli,2,1238,9,23,3,Unfurnished,19.15124,72.88517,8.4,0.44,275.06
+Hyderabad,Madhapur,1,479,4,8,20,Unfurnished,17.45432,78.5037,13.76,0.35,12.84
+Bangalore,Kanakapura Road,2,1327,1,11,3,Semi-Furnished,12.97689,77.62754,3.62,1.44,93.81
+Mumbai,Worli,2,1013,13,44,5,Semi-Furnished,19.09736,72.92111,5.14,1.2,220.11
+Chennai,Adyar,1,435,9,19,0,Fully Furnished,13.06102,80.28229,5.74,1.08,28.62
+Bangalore,Electronic City,3,1477,5,38,20,Unfurnished,12.96483,77.6789,9.17,0.5,63.06
+Delhi,Rohini,2,1093,0,7,10,Unfurnished,28.65088,77.36802,14.84,0.95,68.98
+Chennai,Medavakkam,1,557,1,12,1,Semi-Furnished,13.0372,80.28269,5.32,0.31,30.2
+Mumbai,Bandra West,3,2027,10,40,1,Semi-Furnished,18.92294,72.87569,17.02,1.55,309.78
+Hyderabad,Gachibowli,3,1865,1,4,8,Unfurnished,17.48849,78.50949,15.04,0.78,81.18
+Chennai,Anna Nagar,2,1346,1,9,15,Unfurnished,13.00269,80.20024,5.55,0.12,63.04
+Delhi,Greater Kailash,1,697,11,14,2,Semi-Furnished,28.58379,77.14967,8.42,1.77,64.39
+Hyderabad,Madhapur,1,747,3,7,15,Fully Furnished,17.51908,78.35437,8.14,0.34,40.55
+Kolkata,New Town,4,3901,3,19,8,Semi-Furnished,22.51817,88.38636,6.48,1.65,141.08
+Kolkata,Salt Lake,3,1733,7,10,0,Unfurnished,22.66151,88.3895,10.23,1.98,62.28
+Mumbai,Andheri West,3,2026,7,35,15,Semi-Furnished,19.16033,72.89154,9.49,2.07,339.91
+Bangalore,Indiranagar,2,1136,1,6,3,Semi-Furnished,12.85349,77.65278,14.57,1.9,54.62
+Chennai,OMR,2,1286,3,6,0,Semi-Furnished,13.06603,80.24177,2.97,1.62,71.89
+Chennai,OMR,3,1990,5,16,5,Semi-Furnished,13.10408,80.22896,7.09,1.88,101.93
+Hyderabad,Kukatpally,4,3393,8,11,0,Semi-Furnished,17.47666,78.38718,3.45,0.5,241.99
+Mumbai,Bandra West,3,1751,1,8,8,Semi-Furnished,19.16462,72.90036,10.14,1.72,323.9
+Mumbai,Thane West,3,1670,20,35,15,Semi-Furnished,19.06493,72.8626,2.01,3.73,416.17
+Delhi,Saket,2,1203,12,38,3,Semi-Furnished,28.63214,77.19995,1.74,0.54,150.42
+Chennai,Anna Nagar,2,1058,2,11,5,Fully Furnished,12.9536,80.31778,13.28,1.54,48.09
+Kolkata,Howrah,3,1974,1,12,8,Semi-Furnished,22.56594,88.34744,1.85,2.61,70.84
+Delhi,Dwarka,1,539,20,35,2,Semi-Furnished,28.69134,77.22895,6.86,1.24,61.43
+Hyderabad,Kukatpally,1,644,3,4,8,Fully Furnished,17.4277,78.44263,7.62,2.13,33.01
+Kolkata,Tollygunge,2,1278,13,19,0,Semi-Furnished,22.51258,88.42084,8.87,0.91,53.88
+Delhi,Dwarka,2,821,15,22,5,Unfurnished,28.66737,77.25109,5.25,1.6,72.76
+Chennai,OMR,3,2075,5,10,5,Unfurnished,12.9997,80.18755,6.75,1.6,99.36
+Chennai,Adyar,2,1241,9,12,5,Semi-Furnished,13.06486,80.26439,4.29,1.32,67.99
+Kolkata,Howrah,2,1133,7,10,20,Unfurnished,22.59683,88.3746,2.91,1.5,40.09
+Kolkata,New Town,2,1245,6,8,10,Semi-Furnished,22.55253,88.34492,2.96,0.45,50.2
+Delhi,Saket,2,1060,15,31,20,Unfurnished,28.71561,77.25323,10.09,0.63,72.99
+Delhi,Saket,2,1164,2,34,0,Semi-Furnished,28.60515,77.12407,9.56,0.58,129.44
+Delhi,Greater Kailash,2,1241,10,13,5,Unfurnished,28.64816,77.22583,2.13,0.86,103.28
+Bangalore,Kanakapura Road,2,1066,11,12,2,Semi-Furnished,13.11,77.63006,15.86,1.2,48.42
+Chennai,Medavakkam,2,1204,4,11,5,Unfurnished,12.97538,80.18214,9.15,1.51,51.34
+Kolkata,Howrah,1,648,3,17,15,Semi-Furnished,22.5512,88.36022,2.41,1.35,27.42
+Kolkata,Howrah,4,3765,12,15,2,Semi-Furnished,22.65254,88.37202,8.93,1.79,168.9
+Bangalore,Electronic City,2,1101,1,18,5,Semi-Furnished,12.95599,77.61434,2.76,1.08,74.35
+Chennai,Velachery,3,2046,3,4,1,Unfurnished,12.98457,80.25941,6.81,0.12,93.27
+Hyderabad,Gachibowli,4,3871,1,7,1,Semi-Furnished,17.4473,78.39246,1.95,1.71,256.44
+Bangalore,Whitefield,3,1452,0,6,10,Unfurnished,13.05884,77.63946,10.85,1.94,74.2
+Bangalore,Whitefield,1,716,15,21,3,Unfurnished,12.9743,77.44526,16.18,0.23,31.72
+Kolkata,Tollygunge,3,2090,3,19,2,Semi-Furnished,22.55895,88.35188,1.96,0.96,108.82
+Hyderabad,Madhapur,1,502,10,17,3,Unfurnished,17.48032,78.46368,10.15,0.89,27.0
+Kolkata,Rajarhat,2,1248,3,14,3,Semi-Furnished,22.60388,88.35497,3.6,0.95,63.22
+Chennai,Anna Nagar,2,843,0,3,0,Semi-Furnished,12.96365,80.1953,9.5,1.06,39.1
+Delhi,Vasant Kunj,3,1857,2,18,2,Semi-Furnished,28.70043,77.31301,12.13,0.65,166.31
+Mumbai,Bandra West,3,1542,9,23,1,Semi-Furnished,18.97381,72.89267,11.47,1.36,416.62
+Kolkata,Rajarhat,3,1508,4,5,2,Fully Furnished,22.59601,88.35533,2.75,2.28,71.43
+Hyderabad,Kondapur,1,567,6,11,1,Fully Furnished,17.46601,78.33333,4.75,1.19,36.22
+Mumbai,Bandra West,2,836,4,6,10,Unfurnished,19.14339,72.96044,11.48,0.66,160.89
+Mumbai,Navi Mumbai,2,991,8,28,2,Fully Furnished,18.93644,72.85009,15.79,1.05,197.7
+Chennai,Medavakkam,3,1479,9,11,1,Semi-Furnished,13.02508,80.27742,5.04,0.95,84.01
+Hyderabad,Jubilee Hills,3,1619,3,4,2,Semi-Furnished,17.43343,78.36589,1.87,1.99,97.75
+Hyderabad,Jubilee Hills,3,1556,13,14,0,Semi-Furnished,17.4075,78.27425,11.52,1.39,89.54
+Kolkata,Howrah,2,1162,5,16,1,Semi-Furnished,22.58073,88.28256,8.4,0.94,50.25
+Bangalore,Electronic City,4,3982,28,39,8,Fully Furnished,13.07085,77.54563,12.24,0.1,280.29
+Hyderabad,Jubilee Hills,2,830,15,17,8,Fully Furnished,17.45545,78.33036,4.71,0.85,52.74
+Hyderabad,Jubilee Hills,1,623,1,6,0,Semi-Furnished,17.40955,78.30152,8.82,1.73,38.81
+Hyderabad,Kondapur,3,1532,15,16,5,Semi-Furnished,17.4526,78.41377,4.24,1.87,93.46
+Delhi,Rohini,2,1151,3,9,1,Semi-Furnished,28.61387,77.28475,6.8,1.66,105.87
+Mumbai,Thane West,2,846,2,42,15,Unfurnished,19.01007,72.91515,8.32,0.52,135.33
+Chennai,OMR,2,1173,2,7,5,Unfurnished,13.03839,80.23504,0.28,1.56,61.25
+Kolkata,Howrah,3,2063,3,7,8,Unfurnished,22.60053,88.36527,3.11,1.02,59.64
+Delhi,Dwarka,3,1725,8,30,3,Unfurnished,28.56119,77.31175,11.98,0.82,155.98
+Bangalore,Kanakapura Road,3,1815,29,42,3,Semi-Furnished,13.0033,77.62971,5.19,0.22,118.27
+Mumbai,Andheri West,1,494,35,36,3,Semi-Furnished,19.18564,72.95419,14.6,0.2,96.24
+Delhi,Vasant Kunj,3,1780,3,4,10,Semi-Furnished,28.65662,77.26577,5.52,1.69,162.79
+Bangalore,Electronic City,1,473,15,18,1,Fully Furnished,12.95542,77.59135,1.83,0.8,46.35
+Delhi,Rohini,4,3489,25,44,2,Semi-Furnished,28.71065,77.20643,8.99,1.78,255.15
+Mumbai,Worli,1,669,13,37,1,Unfurnished,19.00399,72.86116,8.19,1.43,142.69
+Bangalore,Electronic City,2,1217,8,28,2,Semi-Furnished,12.97268,77.48246,12.15,0.64,63.51
+Mumbai,Navi Mumbai,2,1131,6,38,1,Semi-Furnished,19.07123,72.87485,0.61,1.24,333.2
+Kolkata,New Town,2,1265,8,13,2,Semi-Furnished,22.56748,88.35668,0.93,3.11,72.79
+Delhi,Saket,2,1305,26,30,1,Unfurnished,28.62919,77.28509,6.58,2.61,165.74
+Delhi,Greater Kailash,2,1268,1,4,20,Semi-Furnished,28.66695,77.19595,4.58,2.43,90.18
+Mumbai,Navi Mumbai,1,449,17,19,2,Unfurnished,19.19916,72.8606,13.81,1.74,84.35
+Delhi,Dwarka,2,1078,2,19,2,Unfurnished,28.64013,77.15983,5.75,0.86,82.37
+Hyderabad,Gachibowli,2,1097,6,14,2,Semi-Furnished,17.40271,78.3315,6.79,1.3,50.7
+Hyderabad,Madhapur,3,1628,3,19,20,Unfurnished,17.3489,78.48596,16.22,2.08,46.48
+Bangalore,Whitefield,3,1922,22,33,8,Fully Furnished,12.89429,77.58972,8.61,0.25,119.29
+Kolkata,Howrah,3,1684,6,10,5,Semi-Furnished,22.62223,88.40619,7.02,0.88,74.78
+Chennai,Anna Nagar,2,911,6,10,2,Fully Furnished,13.13595,80.17216,12.53,0.95,44.61
+Delhi,Saket,2,1201,1,4,0,Unfurnished,28.63433,77.26736,4.87,1.35,105.94
+Delhi,Dwarka,3,2032,17,18,1,Semi-Furnished,28.66695,77.19779,4.51,1.46,240.76
+Hyderabad,Kukatpally,3,1775,2,3,0,Unfurnished,17.51477,78.39973,7.88,1.05,105.87
+Delhi,Rohini,3,1547,11,26,1,Fully Furnished,28.54153,77.06091,18.22,0.79,127.88
+Mumbai,Bandra West,3,1585,26,37,8,Unfurnished,18.9933,72.87459,9.2,1.14,339.3
+Mumbai,Andheri West,2,987,7,14,8,Semi-Furnished,18.96606,72.76573,16.97,2.24,155.78
+Chennai,Anna Nagar,2,1234,11,13,15,Semi-Furnished,13.02489,80.22515,1.97,2.07,57.14
+Delhi,Greater Kailash,1,628,5,7,2,Fully Furnished,28.65067,77.23918,3.08,0.96,74.77
+Mumbai,Bandra West,3,2071,9,34,3,Unfurnished,18.98016,72.86064,10.81,0.89,462.22
+Bangalore,Whitefield,2,851,21,43,20,Unfurnished,12.89438,77.56388,9.21,0.97,32.7
+Kolkata,Salt Lake,3,1914,3,4,20,Semi-Furnished,22.59548,88.39942,4.45,1.21,62.99
