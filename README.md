@@ -97,44 +97,46 @@ Features
 ---
 
 ⚙️ Feature Engineering
-The project creates additional features to improve the model's ability to understand relationships within the housing data.
+
+- The project creates additional features to improve the model's ability to understand relationships within the housing data.
 Floor Ratio
 floor_ratio = floor / total_floors
 
-Represents the relative position of a property within the building.
+- Represents the relative position of a property within the building.
 
 Top Floor Indicator
 is_top_floor
 
-Indicates whether the property is located on the highest floor.
+- Indicates whether the property is located on the highest floor.
 Ground Floor Indicator
 is_ground_floor
 
-Indicates whether the property is located on the ground floor.
+- Indicates whether the property is located on the ground floor.
 Area per BHK
 area_per_bhk = area / BHK
 
-Represents the approximate area available per BHK.
+- Represents the approximate area available per BHK.
 Log-transformed Area
 log_area = log(1 + area)
 
-Helps represent the relationship between property size and price.
+- Helps represent the relationship between property size and price.
 New Property Indicator
 is_new
 
-Indicates whether the property is 2 years old or newer.
+- Indicates whether the property is 2 years old or newer.
 Metro Proximity
 near_metro
 
-Indicates whether the property is within 1 km of a metro station.
+- Indicates whether the property is within 1 km of a metro station.
 City-Locality Combination
 city_locality = city + "_" + locality
 
-Combines city and locality to capture location-specific patterns.
+- Combines city and locality to capture location-specific patterns.
 
 ---
 
 🧹 Data Preprocessing
+
 Before training, the project performs basic data cleaning:
 - Removes duplicate records
 - Removes properties with invalid prices
@@ -149,6 +151,7 @@ The train-test split is stratified by city so that the different cities are repr
 ---
 
 🤖 Machine Learning Models
+
 The project compares four regression algorithms.
 1. Ridge Regression
 A regularized linear regression algorithm that helps reduce overfitting and handles correlated features.
@@ -161,7 +164,8 @@ A histogram-based implementation of gradient boosting designed for efficient mod
 
 ---
 
-🔬 Model Selection & Hyperparameter Tuning
+🔬 Model Selection & Hyperparameter Tuning 
+
 The baseline models are evaluated using:
 5-Fold Cross Validation
 
@@ -186,20 +190,21 @@ The best configuration is selected using cross-validation based on Mean Absolute
 ---
 
 📏 Model Evaluation
+
 The project uses four regression metrics.
-MAE — Mean Absolute Error
+- MAE — Mean Absolute Error
 Measures the average absolute difference between actual and predicted prices.
 Lower MAE = Better
 
-RMSE — Root Mean Squared Error
+- RMSE — Root Mean Squared Error
 Measures prediction error while giving more importance to larger errors.
 Lower RMSE = Better
 
-R² Score
+- R² Score
 Measures how well the model explains the variation in house prices.
 Closer to 1 = Better
 
-MAPE — Mean Absolute Percentage Error
+- MAPE — Mean Absolute Percentage Error
 Measures the average prediction error as a percentage.
 Lower MAPE = Better
 
@@ -218,6 +223,7 @@ The project uses Permutation Importance to understand the contribution of the or
 
 ---
 💾 Generated Model Files
+ 
 After running the training script, the following files are generated:
 models/
 │
@@ -237,6 +243,7 @@ Stores:
 - Best hyperparameters
 - Permutation importance
 meta.json
+
 Stores metadata used by the Streamlit application, including:
 - Available cities
 - Localities
@@ -308,6 +315,7 @@ Estimated Price in ₹ Lakhs
 ---
 
 🔐 Data Leakage Prevention
+
 Feature engineering and preprocessing are implemented as part of the Machine Learning pipeline.
 
 The custom FeatureEngineer transformer creates derived features without using the target variable, helping prevent target leakage.
@@ -317,6 +325,7 @@ The project also applies a logarithmic transformation to the target variable bec
 ---
 
 🔁 Cross Validation
+
 The project uses:
 5-Fold Cross Validation
 
@@ -327,6 +336,7 @@ This provides a more reliable estimate of model performance than relying on a si
 ---
 
 🎲 Reproducibility
+
 A fixed random seed is used throughout the training process:
 RANDOM_STATE = 42
 
@@ -336,6 +346,7 @@ This helps make the training and evaluation process reproducible.
 ---
 
 ✨ Key Features
+
 - 🏠 Indian housing price prediction
 - 📊 Data preprocessing
 - ⚙️ Automated feature engineering
@@ -353,6 +364,7 @@ This helps make the training and evaluation process reproducible.
 ---
 
 🔮 Future Improvements
+
 - Use real-world housing datasets
 - Add more cities and localities
 - Include property type and amenities
@@ -368,6 +380,7 @@ This helps make the training and evaluation process reproducible.
 ---
 
 ⭐ Project Summary
+
 Indian Housing Price Prediction is an end-to-end Machine Learning regression project that predicts residential property prices using property characteristics, location information, and geographical features.
 
 The project demonstrates a complete Machine Learning workflow from data preprocessing and feature engineering to model selection, hyperparameter tuning, evaluation, interpretability, and deployment preparation.
